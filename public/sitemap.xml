@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2026-10-14T00:19:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-14T00:19:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2026-10-14T00:01:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fall/</loc>
+    <lastmod>2026-10-14T00:01:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/rory-gilmore-fall-reading-list/</loc>
+    <lastmod>2026-10-14T00:01:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-14T00:01:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-10-13T23:36:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2023-07-04T09:18:47+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>
