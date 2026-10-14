@@ -11,7 +11,7 @@ content:
   - name: Articles
     label: Articles
     type: collection
-    folder: content/articles
+    path: content/articles
     fields:
       - name: cover
         label: Cover image
