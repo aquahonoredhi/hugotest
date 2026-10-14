@@ -1,18 +1,23 @@
 media:
-  input: assets/media
-  output: /assets/media
+  - name: default
+    input: assets/media
+    output: /assets/media
+
+  - name: cover_images
+    input: assets/media/coverImages
+    output: /assets/media/coverImages
 
 content:
   - name: Articles
     label: Articles
     type: collection
-    path: content/articles
+    folder: content/articles
     fields:
       - name: cover
         label: Cover image
         type: image
         options:
-          path: coverImages    # Fixed: Path is relative to your global media input folder
+          media: cover_images    # Directs this field strictly to the coverImages folder
       - name: title
         type: string
       - name: body
