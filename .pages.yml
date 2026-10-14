@@ -3,7 +3,7 @@ media:
     input: assets/media
     output: /assets/media
 
-  - name: Cover Images
+  - name: cover_images
     input: assets/media/coverImages
     output: /assets/media/coverImages
 
@@ -17,7 +17,7 @@ content:
         label: Cover image
         type: image
         options:
-          media: Cover Images    # Directs this field strictly to the coverImages folder
+          media: cover_images    # Directs this field strictly to the coverImages folder
       - name: title
         type: string
       - name: body
