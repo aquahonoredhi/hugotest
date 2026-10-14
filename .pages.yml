@@ -30,5 +30,5 @@ content:
 
 actions:
   - name: deploy-site
-    label: "Publish Hugo Site"
+    label: "Publish Site"
     workflow: deploy-site.yml
