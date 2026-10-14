@@ -8,8 +8,8 @@ content:
      - name: cover
        label: Cover image
        type: image
-       # options:
-        # path: assets/media/coverImages
+       options:
+        path: assets/media/coverImages
      - name: title
        type: string
      - name: body
