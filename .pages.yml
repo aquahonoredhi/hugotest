@@ -15,14 +15,14 @@ content:
     type: collection
     path: content/articles
     fields:
-      - name: draft
-        label: Draft?
-        type: boolean
       - name: cover
         label: Cover image
         type: image
         options:
           media: cover_images    # Directs this field strictly to the coverImages folder
+      - name: draft
+        label: Draft?
+        type: boolean
       - name: title
         type: string
       - name: body
