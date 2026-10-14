@@ -9,7 +9,7 @@ content:
        label: Cover image
        type: image
        options:
-        media: assets/media/coverImages
+        media: media/coverImages
         path: assets/media/coverImages
      - name: title
        type: string
