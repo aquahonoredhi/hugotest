@@ -1,7 +1,7 @@
 media: assets/media
 content:
-  - name: articles
-    label: articles
+  - name: Articles
+    label: Articles
     type: collection
     path: content/articles
     fields:
