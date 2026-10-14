@@ -5,10 +5,13 @@ content:
     type: collection
     path: content/articles
     fields:
-      - name: Cover Image
-        type: image
-        output: /assets/media/Cover Images
-      - name: title
-        type: string
-      - name: body
-        type: rich-text
+     - name: cover
+       label: Cover image
+       type: image
+       options:
+        media: images
+        path: public/images/posts
+     - name: title
+       type: string
+     - name: body
+       type: rich-text
