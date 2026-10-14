@@ -15,6 +15,9 @@ content:
     type: collection
     path: content/articles
     fields:
+      - name: draft
+        label: Draft?
+        type: boolean
       - name: cover
         label: Cover image
         type: image
