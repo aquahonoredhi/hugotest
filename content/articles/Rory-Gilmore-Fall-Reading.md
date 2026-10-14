@@ -1,5 +1,5 @@
 ---
-cover: /assets/media/unnamed (4)-1.jpg
+cover: /assets/media/coverImages/unnamed (4).jpg
 title: Not Rory Gilmore’s Fall Reading List
 ---
 As the temperature starts to fall and the leaves follow suit, the season of rainy days is just beginning and what better way is there to spend such days then curled up inside with a good book?
