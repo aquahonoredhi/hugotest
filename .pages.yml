@@ -5,6 +5,8 @@ content:
     type: collection
     path: content/articles
     fields:
+      - name: Cover Image
+        type: media
       - name: title
         type: string
       - name: body
