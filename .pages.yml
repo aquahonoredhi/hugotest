@@ -1,9 +1,11 @@
 media:
   - name: default
+    label: Default
     input: assets/media
     output: /assets/media
 
   - name: cover_images
+    label: Cover Images
     input: assets/media/coverImages
     output: /assets/media/coverImages
 
@@ -22,3 +24,8 @@ content:
         type: string
       - name: body
         type: rich-text
+
+actions:
+  - name: deploy-site
+    label: "Publish Hugo Site"
+    workflow: deploy-site.yml
