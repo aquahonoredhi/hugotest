@@ -6,7 +6,7 @@ content:
     path: content/articles
     fields:
       - name: Cover Image
-        type: media
+        type: image
       - name: title
         type: string
       - name: body
