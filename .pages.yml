@@ -1,9 +1,9 @@
 media:
-  - name: default
+  - name: Default
     input: assets/media
     output: /assets/media
 
-  - name: cover_images
+  - name: Cover Images
     input: assets/media/coverImages
     output: /assets/media/coverImages
 
