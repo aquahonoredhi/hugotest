@@ -7,6 +7,7 @@ content:
     fields:
       - name: Cover Image
         type: image
+        output: /assets/media/Cover Images
       - name: title
         type: string
       - name: body
