@@ -10,20 +10,18 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:01:46 -0400</lastBuildDate>
-		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Books</title>
 				<link>http://localhost:1313/tags/books/</link>
-				<pubDate>Wed, 14 Oct 2026 00:01:46 -0400</pubDate>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/books/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fall</title>
 				<link>http://localhost:1313/tags/fall/</link>
-				<pubDate>Wed, 14 Oct 2026 00:01:46 -0400</pubDate>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/fall/</guid>
 				<description></description>
 			</item>
