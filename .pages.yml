@@ -20,6 +20,16 @@ content:
         type: string
         required: true
         
+  - name: tags
+    label: Tags
+    type: collection
+    path: content/tags
+    fields:
+      - name: name
+        label: Tag Name
+        type: string
+        required: true
+
   - name: articles
     label: Articles
     type: collection
@@ -38,6 +48,15 @@ content:
         label: Per-Article Nickname
         type: string
         required: false
+      - name: tags
+        label: Tags
+        type: list            # Allows selecting multiple entries
+        options:
+          field:              # Defines the configuration for the list items
+            type: reference
+            options:
+              collection: tags
+              value: "{fields.name}"
       - name: cover
         label: Cover image
         type: image
