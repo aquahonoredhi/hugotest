@@ -40,8 +40,7 @@ content:
     label: Articles
     type: collection
     path: content/articles
-    # Extracts yyyy and MM from the date field to form subdirectories
-    filename: "{fields.date.yyyy}/{fields.date.MM}/{slug}.md"
+    filename: "{slug}"      # Flat naming layout restored for manual routing
     fields:
       - name: title
         type: string
@@ -58,13 +57,11 @@ content:
         required: false
       - name: tags
         label: Tags
-        type: list
+        type: reference
         options:
-          field:
-            type: reference
-            options:
-              collection: tags
-              value: "{fields.name}"
+          collection: tags
+          multiple: true    # Correct syntax for tag multi-select dropdowns
+          value: "{fields.name}"
       - name: cover
         label: Cover image
         type: image
@@ -76,6 +73,5 @@ content:
       - name: date
         label: Date
         type: date
-        required: true     # Must be true to prevent path failures
       - name: body
         type: rich-text
