@@ -30,10 +30,9 @@ content:
         required: true
       - name: author
         label: Author
-        type: string
-        widget: relation
-        collection: authors
-        value_field: name
+        type: reference       # Use 'reference' to link collection items
+        collection: authors   # Target the collection above
+        value_field: name     # Target the front-matter property to store
       - name: nickname
         label: Per-Article Nickname
         type: string
