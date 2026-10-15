@@ -1,6 +1,13 @@
 media:
-  input: assets/media
-  output: /assets/media
+  - name: default
+    label: Default
+    input: assets/media
+    output: /assets/media
+
+  - name: cover_images
+    label: Cover Images
+    input: assets/media/coverImages
+    output: /assets/media/coverImages
 
 content:
   - name: authors
@@ -34,7 +41,8 @@ content:
       - name: cover
         label: Cover image
         type: image
-        path: coverImages  # Places files under assets/media/coverImages
+        options:
+          media: cover_images
       - name: draft
         label: Draft?
         type: boolean
