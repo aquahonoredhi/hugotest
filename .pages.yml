@@ -29,6 +29,6 @@ content:
         type: rich-text
 
 actions:
-  - name: deploy-site
+  - name: hugo
     label: "Publish Site"
-    workflow: deploy-site.yml
+    workflow: hugo.yml
