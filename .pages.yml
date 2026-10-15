@@ -39,9 +39,9 @@ content:
   - name: articles
     label: Articles
     type: collection
-    # Dynamically places files in year/month folders based on the chosen article date
-    path: "content/articles/{year}/{month}" 
-    filename: "{slug}" # Uses the text title slug for the file name (e.g. title.md)
+    path: content/articles
+    # Extracts yyyy and MM from the date field to form subdirectories
+    filename: "{fields.date.yyyy}/{fields.date.MM}/{slug}.md"
     fields:
       - name: title
         type: string
@@ -76,6 +76,6 @@ content:
       - name: date
         label: Date
         type: date
-        required: true     # Recommended so the year/month path tokens always resolve
+        required: true     # Must be true to prevent path failures
       - name: body
         type: rich-text
