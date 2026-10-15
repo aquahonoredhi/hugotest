@@ -14,6 +14,7 @@ content:
     label: Authors
     type: collection
     path: content/authors
+    filename: "{slug}"
     fields:
       - name: name
         label: Author Name
@@ -22,12 +23,13 @@ content:
       - name: active
         label: Active Author?
         type: boolean
-        default: true        # Automatically marks new authors as active
+        default: true
         
   - name: tags
     label: Tags
     type: collection
     path: content/tags
+    filename: "{slug}"
     fields:
       - name: name
         label: Tag Name
@@ -37,7 +39,9 @@ content:
   - name: articles
     label: Articles
     type: collection
-    path: content/articles
+    # Dynamically places files in year/month folders based on the chosen article date
+    path: "content/articles/{year}/{month}" 
+    filename: "{slug}" # Uses the text title slug for the file name (e.g. title.md)
     fields:
       - name: title
         type: string
@@ -72,5 +76,6 @@ content:
       - name: date
         label: Date
         type: date
+        required: true     # Recommended so the year/month path tokens always resolve
       - name: body
         type: rich-text
