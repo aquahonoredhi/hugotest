@@ -25,6 +25,9 @@ content:
         type: boolean
       - name: title
         type: string
+      - name: date
+        label: Date
+        type: date
       - name: body
         type: rich-text
 
