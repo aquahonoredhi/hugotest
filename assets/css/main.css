@@ -10,7 +10,7 @@ nav ul {
     display: flex;
     align-items: center;
     margin: 0;
-    padding: 0;
+    padding: 0 2ch 0 2ch;
 
 }
 nav ul li {
@@ -27,8 +27,8 @@ nav ul li:first-child {
 }
 nav a {
     text-decoration: none;
-    color: #000;
+    color: #ffffff;
 }
 header {
-    background-color: #cb4242;
+    background-color: #d3413f;
 }

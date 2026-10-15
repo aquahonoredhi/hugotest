@@ -14,6 +14,13 @@
 		
 			<atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>abcd</title>
+				<link>http://localhost:1313/articles/2026-10-14-abcd/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/articles/2026-10-14-abcd/</guid>
+				<description>&lt;p&gt;ababa&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Not Rory Gilmore’s Fall Reading List</title>
 				<link>http://localhost:1313/articles/rory-gilmore-fall-reading/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
