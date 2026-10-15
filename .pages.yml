@@ -30,9 +30,10 @@ content:
         required: true
       - name: author
         label: Author
-        type: reference       # Use 'reference' to link collection items
-        collection: authors   # Target the collection above
-        value_field: name     # Target the front-matter property to store
+        type: reference
+        options:
+          collection: authors
+          value: "{fields.name}"
       - name: nickname
         label: Per-Article Nickname
         type: string
