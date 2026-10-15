@@ -10,6 +10,16 @@ media:
     output: /assets/media/coverImages
 
 content:
+   - name: authors
+     type: collection
+     label: Authors
+     path: content/authors
+     fields:
+      - name: name
+        label: Author Name
+        type: string
+        required: true
+        
   - name: Articles
     label: Articles
     type: collection
@@ -31,7 +41,3 @@ content:
       - name: body
         type: rich-text
 
-actions:
-  - name: hugo
-    label: "Publish Site"
-    workflow: hugo.yml
