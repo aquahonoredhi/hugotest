@@ -1,43 +1,45 @@
 media:
-  - name: default
-    label: Default
-    input: assets/media
-    output: /assets/media
-
-  - name: cover_images
-    label: Cover Images
-    input: assets/media/coverImages
-    output: /assets/media/coverImages
+  input: assets/media
+  output: /assets/media
 
 content:
-   - name: authors
-     type: collection
-     label: Authors
-     path: content/authors
-     fields:
+  - name: authors
+    label: Authors
+    type: collection
+    path: content/authors
+    fields:
       - name: name
         label: Author Name
         type: string
         required: true
         
-  - name: Articles
+  - name: articles
     label: Articles
     type: collection
     path: content/articles
     fields:
+      - name: title
+        type: string
+        required: true
+      - name: author
+        label: Author
+        type: string
+        widget: relation
+        collection: authors
+        value_field: name
+      - name: nickname
+        label: Per-Article Nickname
+        type: string
+        required: false
       - name: cover
         label: Cover image
         type: image
-        options:
-          media: cover_images    # Directs this field strictly to the coverImages folder
+        path: coverImages  # Places files under assets/media/coverImages
       - name: draft
         label: Draft?
         type: boolean
-      - name: title
-        type: string
       - name: date
         label: Date
         type: date
       - name: body
         type: rich-text
-
