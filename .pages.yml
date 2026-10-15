@@ -19,6 +19,10 @@ content:
         label: Author Name
         type: string
         required: true
+      - name: active
+        label: Active Author?
+        type: boolean
+        default: true        # Automatically marks new authors as active
         
   - name: tags
     label: Tags
@@ -50,9 +54,9 @@ content:
         required: false
       - name: tags
         label: Tags
-        type: list            # Allows selecting multiple entries
+        type: list
         options:
-          field:              # Defines the configuration for the list items
+          field:
             type: reference
             options:
               collection: tags
