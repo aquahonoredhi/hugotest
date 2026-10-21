@@ -1,6 +1,12 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  repo: aquahonoredhi/hugotest         # Path to your GitHub repository
+  branch: master                      # Target branch for CMS content
+
+  # Crucial for routing OAuth through Netlify
+  base_url: https://api.netlify.com
+  site_id: https://aquahugotest.netlify.app/  # Replace with your exact Netlify dummy site domain
+
 media_folder: "assets/media"
 collections:
   - name: "archives" # Used in routes, e.g., /admin/collections/blog
