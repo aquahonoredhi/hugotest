@@ -4,7 +4,7 @@ backend:
   branch: master                      # Target branch for CMS content
 
   # Crucial for routing OAuth through Netlify
-  base_url: https://api.netlify.com
+  base_url: https://aquahugotest.netlify.app/.netlify/identity
   site_id: https://aquahugotest.netlify.app/  # Replace with your exact Netlify dummy site domain
 
 media_folder: "assets/media"
