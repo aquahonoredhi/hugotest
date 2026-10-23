@@ -14,7 +14,7 @@ content:
     label: Authors
     type: collection
     path: content/authors
-    filename: "{slug}"
+    filename: "{slug}.md"
     fields:
       - name: name
         label: Author Name
