@@ -1,3 +1,10 @@
 baseURL = 'https://hugo.aquahonoredhi.pp.ua'
 locale = 'en-us'
 title = 'Talawanda Tribune'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML', 'RSS']
+  term = ['HTML', 'RSS']
