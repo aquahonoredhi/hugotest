@@ -1,4 +1,4 @@
-# Complete workflow for building and deploying a Hugo site to GitHub Pages with Dart Sass
+# Corrected native deployment workflow for building a custom Hugo site on GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -37,14 +37,14 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      # Official Hugo build engine setup action
-      - name: Setup Hugo
-        uses: hugo94/setup-hugo@v1
+      # The working marketplace Hugo engine template
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
 
-      # Installs Dart Sass natively to bypass Snap sandboxing blocks
+      # Native binary install to bypass Snap sandbox restrictions on Ubuntu 26.04
       - name: Install Dart Sass
         run: |
           curl -LJO "https://github.com"
