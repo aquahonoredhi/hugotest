@@ -29,7 +29,7 @@ content:
     label: Tags
     type: collection
     path: content/tags
-    filename: "{slug}"
+    filename: "{slug}.md"
     fields:
       - name: name
         label: Tag Name
@@ -40,7 +40,7 @@ content:
     label: Articles
     type: collection
     path: content/articles
-    filename: "{slug}"      # Flat naming layout restored for manual routing
+    filename: "{slug}.md"      # Flat naming layout restored for manual routing
     fields:
       - name: title
         type: string
