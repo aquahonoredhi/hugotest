@@ -28,9 +28,15 @@ jobs:
           curl -L "https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_Linux-64bit.tar.gz" -o hugo.tar.gz
           tar -xzf hugo.tar.gz
           sudo mv hugo /usr/local/bin/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Compile Static Site
         run: |
-          hugo --minify
+          rm -rf public
+          hugo --cleanDestinationDir --minify --destination public
+          find public -maxdepth 3 -type f | sort
           touch ./public/.nojekyll
 
       - name: Upload Build Output
