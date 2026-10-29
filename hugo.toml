@@ -8,5 +8,3 @@ title = 'Talawanda Tribune'
   section = ['HTML']
   taxonomy = ['HTML']
   term = ['HTML']
-[permalinks]
-  articles = "/articles/"
