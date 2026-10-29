@@ -35,7 +35,7 @@ jobs:
       - name: Compile Static Site
         run: |
           rm -rf public
-          hugo --cleanDestinationDir --minify --destination public
+          hugo --cleanDestinationDir --destination public
           find public -maxdepth 3 -type f | sort
           touch ./public/.nojekyll
 
