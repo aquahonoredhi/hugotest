@@ -25,12 +25,14 @@ jobs:
 
       - name: Download and Install Hugo Binary
         run: |
-          curl -L "https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_Linux-64bit.tar.gz" -o hugo.tar.gz
+          curl -L "https://github.com" -o hugo.tar.gz
           tar -xzf hugo.tar.gz
           sudo mv hugo /usr/local/bin/
 
       - name: Compile Static Site
-        run: hugo --minify
+        run: |
+          hugo --minify
+          touch ./public/.nojekyll
 
       - name: Upload Build Output
         uses: actions/upload-pages-artifact@v3
