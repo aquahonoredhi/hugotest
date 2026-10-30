@@ -49,7 +49,7 @@ content:
         label: Author
         type: reference
         options:
-          collection: authors
+          collection: Staff
           value: "{fields.name}"
       - name: nickname
         label: Per-Article Nickname
