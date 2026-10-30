@@ -10,10 +10,10 @@ media:
     output: /assets/media/coverImages
 
 content:
-  - name: authors
-    label: Authors
+  - name: Staff
+    label: Staff
     type: collection
-    path: content/authors
+    path: content/staff
     filename: "{slug}.md"
     fields:
       - name: name
