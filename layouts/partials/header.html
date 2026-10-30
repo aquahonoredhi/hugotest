@@ -1,11 +1,12 @@
 <header>
     <nav>
         <ul>
-            <li><a href="/">{{ .Site.Title }}</a></li>
-            <li><a href="/articles">Articles</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Staff</a></li>
-
+           <li><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
+            {{ range site.Home.Pages }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
         </ul>
     </nav>
 </header>
