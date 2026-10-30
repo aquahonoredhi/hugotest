@@ -24,14 +24,17 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
-      - name: Show repo tree
+      - name: Show repo tree before build
         run: |
           pwd
+          echo "--- ls -la ---"
           ls -la
-          echo "--- content ---"
-          find content -maxdepth 3 -print
-          echo "--- root ---"
-          find . -maxdepth 2 -print
+          echo "--- root files ---"
+          find . -maxdepth 2 -print | sort
+          echo "--- content tree ---"
+          find content -maxdepth 4 -print | sort
+          echo "--- config files ---"
+          ls -la *.toml .*.yml .*.yaml 2>/dev/null || true
 
       - name: Download and Install Hugo Binary
         run: |
@@ -45,12 +48,26 @@ jobs:
       - name: Compile Static Site
         run: |
           rm -rf public
+          echo "--- running hugo ---"
           hugo --cleanDestinationDir --verbose --destination public
-          echo "--- public ---"
-          find public -maxdepth 3 -type f | sort
+          echo "--- public files ---"
+          find public -maxdepth 4 -type f | sort
+          echo "--- public tree ---"
+          find public -maxdepth 4 -print | sort
           touch ./public/.nojekyll
 
       - name: Upload Build Output
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
