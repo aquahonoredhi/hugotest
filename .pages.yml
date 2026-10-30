@@ -10,7 +10,7 @@ media:
     output: /assets/media/coverImages
 
 content:
-  - name: Staff
+  - name: author
     label: Staff
     type: collection
     path: content/staff
