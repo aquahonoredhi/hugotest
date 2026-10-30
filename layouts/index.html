@@ -4,4 +4,16 @@
     {{ now.Format "Mon Jan 2 2006" }}
     {{ .Content }}
 </div>
+<div id="articlesList">
+<ul>
+    {{ range first 5 (where .Site.RegularPages "Section" "articles") }}
+    <li>
+<!--        TODO:add cover image-->
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div>{{ .Params.Author }}</div>
+        <div>{{ .Date.Format "Jan 2 2006" }}</div>
+    </li>
+    {{ end }}
+</ul>
+</div>
 {{ end }}
