@@ -11,7 +11,7 @@ main, footer {
     margin:2ch;
 }
 img {
-    max-size:100%;
+    max-width:100%;
 }
 nav ul {
     list-style: none;
