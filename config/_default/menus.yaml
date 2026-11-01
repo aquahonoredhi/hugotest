@@ -1,5 +1,0 @@
-main:
-  _block: menu_item
-  name: a
-  pageRef: /about
-  weight: 1
