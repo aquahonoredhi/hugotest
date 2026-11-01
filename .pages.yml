@@ -1,17 +1,12 @@
 media:
   - name: default
     label: Default
-    input: assets/media
-    output: /assets/media
-
-  - name: cover_images
-    label: Cover Images
-    input: assets/media/coverImages
-    output: /assets/media/coverImages
+    input: static/media
+    output: /media
 
 content:
   - name: author
-    label: Staff
+    label: Staff (Active)
     type: collection
     path: content/staff
     filename: "{slug}.md"
@@ -20,19 +15,27 @@ content:
         label: Author Name
         type: string
         required: true
-      - name: active
-        label: Active Author?
-        type: boolean
-        default: true
-        
-  - name: tags
-    label: Tags
+
+  - name: author_inactive
+    label: Staff (Inactive)
     type: collection
-    path: content/tags
+    path: content/staff-inactive
     filename: "{slug}.md"
     fields:
       - name: name
-        label: Tag Name
+        label: Author Name
+        type: string
+        required: true
+
+  - name: categories
+    label: Categories
+    type: collection
+    path: content/category-data
+    filename: "{slug}.md"
+    exclude: ["_index.md"]
+    fields:
+      - name: name
+        label: Category Name
         type: string
         required: true
 
@@ -49,24 +52,24 @@ content:
         label: Author
         type: reference
         options:
-          collection: author
+          collection: author   # fixed: was "authors"
           value: "{fields.name}"
       - name: nickname
         label: Per-Article Nickname
         type: string
         required: false
-      - name: tags
-        label: Tags
+      - name: categories
+        label: Categories
         type: reference
         options:
-          collection: tags
-          multiple: true    # Correct syntax for tag multi-select dropdowns
+          collection: categories
+          multiple: true
           value: "{fields.name}"
       - name: cover
         label: Cover image
         type: image
         options:
-          media: cover_images
+          media: default
       - name: draft
         label: Draft?
         type: boolean

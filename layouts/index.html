@@ -5,15 +5,12 @@
     {{ .Content }}
 </div>
 <div id="articlesList">
-<ul>
-    {{ range first 5 (where .Site.RegularPages "Section" "articles") }}
-    <li>
-<!--        TODO:add cover image-->
+    {{ range first 20 (where .Site.RegularPages "Section" "articles") }}
+    <div class="articleListing">
+        <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div>{{ .Params.Author }}</div>
-        <div>{{ .Date.Format "Jan 2 2006" }}</div>
-    </li>
+    </div>
     {{ end }}
-</ul>
 </div>
 {{ end }}

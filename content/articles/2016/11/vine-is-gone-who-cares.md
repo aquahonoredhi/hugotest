@@ -1,0 +1,14 @@
+---
+title: "Vine is Gone_  Who Cares!"
+author: "Ben Phillips"
+nickname: ""
+categories: []
+cover: "/media/noImage.png"
+draft: false
+review_required: false
+date: 2016-11-04
+---
+
+As much as I’d like to simply call Vine a fad and move on, it seems like some people still don’t know about the drama over the recently announced decision by Twitter to shut down Vine. As much as I mistake Vive and Vine I’ve decided that this is interesting because Vine was just some watered down version of YouTube that was as much of a fad as pogs was in the 90’s it’s still kind of surprising. So now as we scratch our heads and wonder where all the 12 year old tween boys and girls will go now for popularity, let’s first remember that we have Snapchat and Music.ly, which of course is the perfect dumping ground for cringe compilations and more Justin Bieber wannabe’s to find popularity. Every trend imaginable from the famous Deez Nuts, to John Cena had some sort of stint on Vine. At the same time though I’m sure that in 20 years from now, the next generation will look at Vine the same we look at JNCO jeans from the 90’s. Extremely outdated, barebones, and very Part of the reason Vine has to go is likely due to the downfall of Twitter’s stock value over the past year and several companies talking about acquiring Twitter.
+
+Clearly before Twitter becomes the next MySpace they need to cut the fat and focus on innovation and it seems that Vine with its six second videos are simply not going to work. Due to various companies that were interested in acquiring Twitter including Google and even Disney moving away from that plan, Twitter’s stocks will likely continue to tank. The major problem with Vine is that since there’s a six second limit to videos it would be extremely difficult to monetize videos and so Twitter is likely making next to nothing off of Vine at this point. It’s more or less not a debate one whether you liked Vine or not, but whether it was profitable in the long run. There were popular Vine stars usually under the age of 18 who made lots of money, but Twitter themselves weren’t making any money. Speaking of the future Vine itself is often considered barebones compared to YouTube so I don’t think that another site like Vine will pop up anytime soon. More importantly I’m kind of surprised that at this point Twitter is hoping for a bidding war over the company, which goes to show just how much trouble Twitter is in as a company. Besides the number of celebrities that have come out of Twitter I still kind of wonder if another Vine type site will ever pop up in the future and if we ever end up with another fad like Vine was in 2014. I’m kind of surprised that it was extremely short lives and that it lasted even shorter than MySpace in it’s popularity prime. I can’t believe that Twitter might be the next MySpace and become the next Pripyat of the internet.

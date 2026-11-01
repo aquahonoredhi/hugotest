@@ -1,8 +1,0 @@
----
-title: His
-author: Chloe Jeong
-nickname: Chrissy
-draft: false
-date: 2026-10-23
----
-Lorem ipsub dolor sit blah blah filler text lmao
