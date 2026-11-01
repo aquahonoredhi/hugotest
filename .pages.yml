@@ -78,3 +78,24 @@ content:
         type: date
       - name: body
         type: rich-text
+  - name: navigation
+    type: file
+    path: config/_default/menus.yaml
+    fields:
+      - name: main
+        type: block
+        label: Main Navigation Items
+        fields:
+          - name: menu_item
+            type: object
+            label: Link
+            fields:
+              - name: name
+                type: string
+                label: Display Name
+              - name: pageRef
+                type: string
+                label: Internal Page Path (e.g., /about)
+              - name: weight
+                type: number
+                label: Order Position
