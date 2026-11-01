@@ -85,7 +85,7 @@ content:
       - name: main
         type: block
         label: Main Navigation Items
-        fields:
+        blocks:
           - name: menu_item
             type: object
             label: Link
