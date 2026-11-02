@@ -1,6 +1,6 @@
 ---
 title: "Love and Honor For All_ Miami University Marches Against White Supremacy"
-author: "By Cassidy Edwards and Max Hannum"
+author: "Cassidy Edwards and Max Hannum"
 nickname: ""
 categories: []
 cover: "/media/love-and-honor-for-all-miami-university-marches-against-white-supremacy-image1.jpg"

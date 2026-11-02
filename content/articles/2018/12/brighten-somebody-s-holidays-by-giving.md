@@ -1,6 +1,6 @@
 ---
 title: "“Brighten Somebody’s Holidays by Giving”"
-author: "By CAMRY W-N"
+author: "CAMRY W-N"
 nickname: ""
 categories: ["School"]
 cover: "/media/brighten-somebody-s-holidays-by-giving-image1.jpg"

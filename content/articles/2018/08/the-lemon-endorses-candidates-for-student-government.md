@@ -1,6 +1,6 @@
 ---
 title: "The Lemon Endorses Candidates for Student Government"
-author: "By SOUR STAFF"
+author: "SOUR STAFF"
 nickname: ""
 categories: []
 cover: "/media/noImage.png"

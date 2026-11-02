@@ -1,6 +1,6 @@
 ---
 title: "Homecoming Week is Here"
-author: "By RITA BARCLAY HART"
+author: "RITA BARCLAY HART"
 nickname: ""
 categories: ["News"]
 cover: "/media/homecoming-week-is-here-image1.jpg"

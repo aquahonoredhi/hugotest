@@ -1,17 +1,13 @@
 ---
 title: "Review_ The Decemberists’ “What a Terrible World, What a Beautiful World”"
-author: "PENDING REVIEW"
+author: "Darian Bolin"
 nickname: ""
-categories: ["Needs Review"]
-cover: "/media/review-the-decemberists-what-a-terrible-world-what-a-beautiful-world-image1.jpg"
+categories: []
+cover: "/media/noImage.png"
 draft: false
-review_required: true
+review_required: false
 date: 2015-01-20
 ---
-
-# **Review: The Decemberists’ “What a Terrible World, What a Beautiful World”**
-
-*Added by* **Darian Bolin** *on January 20, 2015.*![](/media/review-the-decemberists-what-a-terrible-world-what-a-beautiful-world-image1.jpg)
 
 It’s good to have you back, Decemberists.
 

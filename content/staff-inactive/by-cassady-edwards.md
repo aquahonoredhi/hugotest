@@ -1,3 +1,0 @@
----
-name: "By CASSADY EDWARDS"
----

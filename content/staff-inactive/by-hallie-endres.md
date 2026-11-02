@@ -1,3 +1,0 @@
----
-name: "By HALLIE ENDRES"
----

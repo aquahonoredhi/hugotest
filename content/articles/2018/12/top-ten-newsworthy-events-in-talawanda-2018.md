@@ -1,6 +1,6 @@
 ---
 title: "Top Ten Newsworthy Events in Talawanda_ 2018"
-author: "By EMILY HUELSMAN, KAITLYN PARRISH & A. WEATHERWAX"
+author: "EMILY HUELSMAN, KAITLYN PARRISH & A. WEATHERWAX"
 nickname: ""
 categories: ["News", "School"]
 cover: "/media/top-ten-newsworthy-events-in-talawanda-2018-image1.jpg"

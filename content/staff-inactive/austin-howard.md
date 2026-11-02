@@ -1,3 +1,3 @@
 ---
-name: "Austin Howard"
+name: "AUSTIN HOWARD"
 ---

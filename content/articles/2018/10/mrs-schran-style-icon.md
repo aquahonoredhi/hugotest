@@ -1,6 +1,6 @@
 ---
 title: "Mrs. Schran_  Style Icon"
-author: "By SARAH CLARKE"
+author: "SARAH CLARKE"
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
 cover: "/media/mrs-schran-style-icon-image1.jpg"

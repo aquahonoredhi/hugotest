@@ -1,6 +1,6 @@
 ---
 title: "No Hoco Bro"
-author: "By STAFF"
+author: "STAFF"
 nickname: ""
 categories: []
 cover: "/media/noImage.png"

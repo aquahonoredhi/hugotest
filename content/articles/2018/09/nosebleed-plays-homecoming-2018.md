@@ -1,19 +1,13 @@
 ---
 title: "Nosebleed Plays Homecoming 2018"
-author: "PENDING REVIEW"
+author: "Photos by ALYSSA SMITH & BRADYN SPURLOCK"
 nickname: ""
-categories: ["Needs Review"]
+categories: ["Arts and Entertainment", "Photo Galleries"]
 cover: "/media/nosebleed-plays-homecoming-2018-image11.jpg"
 draft: false
-review_required: true
+review_required: false
 date: 2018-09-26
 ---
-
-# **Nosebleed Plays Homecoming 2018**
-
-*Added by* [**Photos by ALYSSA SMITH & BRADYN SPURLOCK**](http://talawandatribune.org/author/waxy/) *on September 26, 2018.*
-
-*Saved under* [**All Posts**](http://talawandatribune.org/category/archives/uncategorized/)*,* [**Arts and Entertainment**](http://talawandatribune.org/category/arts-and-entertainment/)*,* [**Photo Galleries**](http://talawandatribune.org/category/arts-and-entertainment/photography-and-art/photo-galleries/)
 
 ![](/media/nosebleed-plays-homecoming-2018-image11.jpg)![](/media/nosebleed-plays-homecoming-2018-image2.jpg)
 

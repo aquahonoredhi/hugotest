@@ -78,24 +78,51 @@ content:
         type: date
       - name: body
         type: rich-text
-  - name: navigation
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: content/pages
+    filename: "{slug}.md"
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: draft
+        label: Draft?
+        type: boolean
+      - name: body
+        type: rich-text
+
+  - name: menu
+    label: Site Menu
     type: file
     path: config/_default/menus.yaml
+    format: yaml
     fields:
       - name: main
-        type: block
-        label: Main Navigation Items
-        blocks:
-          - name: menu_item
-            type: object
-            label: Link
-            fields:
-              - name: name
-                type: string
-                label: Display Name
-              - name: pageRef
-                type: string
-                label: Internal Page Path (e.g., /about)
-              - name: weight
-                type: number
-                label: Order Position
+        label: Main Menu
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Link Text
+            type: string
+            required: true
+          - name: url
+            label: URL or path (e.g. /articles/, /staff/ or https://example.com)
+            description: Type any path on the site, or an external link. Use this OR "Page reference" below.
+            type: string
+          - name: pageRef
+            label: Page reference (optional)
+            description: Content path of a page, e.g. /pages/about or /articles/2020/05/my-article. Follows the page if its URL changes.
+            type: string
+          - name: weight
+            label: Order (lower numbers appear first)
+            type: number
+          - name: identifier
+            label: Identifier (only needed if this item has sub-items)
+            type: string
+          - name: parent
+            label: Parent identifier (set to nest this under another item)
+            type: string

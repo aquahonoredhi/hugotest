@@ -1,6 +1,6 @@
 ---
 title: "Fermata Nowhere Impromptu Performance"
-author: "By CAMRY W-N"
+author: "CAMRY W-N"
 nickname: ""
 categories: []
 cover: "/media/noImage.png"

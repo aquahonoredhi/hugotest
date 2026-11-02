@@ -1,3 +1,0 @@
----
-name: "By RITA BARCLAY-HART, HILEY KRESSE & ABBY ZMUDA"
----

@@ -1,3 +1,0 @@
----
-name: "By Patrick Geshan"
----

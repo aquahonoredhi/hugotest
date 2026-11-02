@@ -1,6 +1,6 @@
 ---
 title: "LUCKY 13"
-author: "By MK HUDDLESTON"
+author: "MK HUDDLESTON"
 nickname: ""
 categories: ["Sports"]
 cover: "/media/lucky-13-image1.jpg"

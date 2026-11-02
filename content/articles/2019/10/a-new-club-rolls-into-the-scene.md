@@ -1,17 +1,13 @@
 ---
 title: "A New Club Rolls Into the Scene"
-author: "PENDING REVIEW"
+author: "C. Goodman"
 nickname: ""
-categories: ["Needs Review"]
+categories: []
 cover: "/media/a-new-club-rolls-into-the-scene-image1.jpg"
 draft: false
-review_required: true
+review_required: false
 date: 2019-10-15
 ---
-
-# **A New Club Rolls Into the Scene**
-
-*Added by* **C. Goodman** *on October 15, 2019.*
 
 If you’re a student or faculty at Talawanda, you’ve probably seen the many kids that bike to school. Maybe you’re even one of them. But there’s one such cyclist that enjoys it so much, he decided to make a club out of it.
 

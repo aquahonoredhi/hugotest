@@ -1,6 +1,6 @@
 ---
 title: "Do What Makes You Happy"
-author: "By HALLIE ENDRES"
+author: "HALLIE ENDRES"
 nickname: ""
 categories: ["Columns"]
 cover: "/media/do-what-makes-you-happy-image1.jpg"

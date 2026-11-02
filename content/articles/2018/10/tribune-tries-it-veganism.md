@@ -1,6 +1,6 @@
 ---
 title: "Tribune Tries It_ Veganism"
-author: "By K.E. FISHER"
+author: "K.E. FISHER"
 nickname: ""
 categories: ["Foodie", "Tribune Tries It"]
 cover: "/media/tribune-tries-it-veganism-image1.jpg"

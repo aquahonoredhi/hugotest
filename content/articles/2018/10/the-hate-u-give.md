@@ -1,6 +1,6 @@
 ---
 title: "The Hate U Give"
-author: "By VICKIE STURGILL"
+author: "VICKIE STURGILL"
 nickname: ""
 categories: ["Arts and Entertainment", "Tribune Read It"]
 cover: "/media/the-hate-u-give-image1.jpg"

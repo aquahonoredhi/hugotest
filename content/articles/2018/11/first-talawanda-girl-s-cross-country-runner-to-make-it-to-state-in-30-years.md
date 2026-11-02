@@ -1,6 +1,6 @@
 ---
 title: "First Talawanda Girl’s Cross Country Runner to Make it to State in 30 Years"
-author: "By LOGAN MURRAY"
+author: "LOGAN MURRAY"
 nickname: ""
 categories: ["News", "School", "Sports"]
 cover: "/media/first-talawanda-girl-s-cross-country-runner-to-make-it-to-state-in-30-years-image3.jpg"

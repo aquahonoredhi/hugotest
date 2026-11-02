@@ -1,17 +1,13 @@
 ---
 title: "Epaulettes_ The Walking Sharks"
-author: "PENDING REVIEW"
+author: "Luca Berberich"
 nickname: ""
-categories: ["Needs Review"]
-cover: "/media/epaulettes-the-walking-sharks-image1.png"
+categories: []
+cover: "/media/noImage.png"
 draft: false
-review_required: true
+review_required: false
 date: 2023-11-02
 ---
-
-# **Epaulettes: The Walking Sharks**
-
-# *Added by* **Luca Berberich** *on November 2, 2023.*![](/media/epaulettes-the-walking-sharks-image1.png)
 
 Photo credit: Diveplanit
 

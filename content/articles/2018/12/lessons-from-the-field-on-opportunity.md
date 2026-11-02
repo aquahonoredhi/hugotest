@@ -1,6 +1,6 @@
 ---
 title: "Lessons from the Field_ On Opportunity"
-author: "By PATRICK GESHAN"
+author: "PATRICK GESHAN"
 nickname: ""
 categories: ["Lessons from the Field With Patrick Geshan"]
 cover: "/media/lessons-from-the-field-on-opportunity-image1.jpg"

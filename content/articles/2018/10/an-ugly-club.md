@@ -1,6 +1,6 @@
 ---
 title: "An Ugly Club"
-author: "By ELLEN HEYOB"
+author: "ELLEN HEYOB"
 nickname: ""
 categories: ["Local", "News"]
 cover: "/media/noImage.png"

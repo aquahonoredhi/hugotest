@@ -1,6 +1,6 @@
 ---
 title: "Rita’s Weekly News Roundup_ November 11-17"
-author: "By RITA ARMITAGE"
+author: "RITA ARMITAGE"
 nickname: ""
 categories: ["National & Global", "News"]
 cover: "/media/noImage.png"

@@ -1,6 +1,6 @@
 ---
 title: "The Braves Debate_ An Update"
-author: "By JEAN R. PATEMAN"
+author: "JEAN R. PATEMAN"
 nickname: ""
 categories: ["News", "School"]
 cover: "/media/noImage.png"

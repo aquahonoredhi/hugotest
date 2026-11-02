@@ -1,6 +1,6 @@
 ---
 title: "A Senior’s Search_ I know What I Don’t Want To Do"
-author: "By HALLIE ENDRES"
+author: "HALLIE ENDRES"
 nickname: ""
 categories: []
 cover: "/media/a-senior-s-search-i-know-what-i-don-t-want-to-do-image1.jpg"

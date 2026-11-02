@@ -1,6 +1,6 @@
 ---
 title: "Art Club"
-author: "By Muhammad Jaffery and Abdullah Khan"
+author: "Muhammad Jaffery and Abdullah Khan"
 nickname: ""
 categories: []
 cover: "/media/art-club-image1.jpg"

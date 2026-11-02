@@ -1,6 +1,6 @@
 ---
 title: "Hiley’s Top Ten Songs of 2018"
-author: "By HILEY KRESSE"
+author: "HILEY KRESSE"
 nickname: ""
 categories: []
 cover: "/media/hiley-s-top-ten-songs-of-2018-image1.jpg"

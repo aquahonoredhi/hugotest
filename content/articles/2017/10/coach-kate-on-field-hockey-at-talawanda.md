@@ -1,6 +1,6 @@
 ---
 title: "Coach Kate on Field Hockey at Talawanda"
-author: "By K.E. FISHER"
+author: "K.E. FISHER"
 nickname: ""
 categories: []
 cover: "/media/noImage.png"

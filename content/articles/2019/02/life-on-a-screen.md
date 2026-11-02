@@ -1,6 +1,6 @@
 ---
 title: "Life on a Screen"
-author: "By ALYSSA SMITH"
+author: "ALYSSA SMITH"
 nickname: ""
 categories: ["Technology"]
 cover: "/media/noImage.png"

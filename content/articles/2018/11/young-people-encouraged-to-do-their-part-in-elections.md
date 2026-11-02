@@ -1,6 +1,6 @@
 ---
 title: "Young People Encouraged to Do Their Part in Elections"
-author: "By KE FISHER"
+author: "KE FISHER"
 nickname: ""
 categories: []
 cover: "/media/noImage.png"

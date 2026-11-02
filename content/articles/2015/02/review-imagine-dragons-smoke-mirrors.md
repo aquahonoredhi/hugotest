@@ -1,17 +1,13 @@
 ---
 title: "Review_ Imagine Dragons “Smoke + Mirrors”"
-author: "PENDING REVIEW"
+author: "Darian Bolin"
 nickname: ""
-categories: ["Needs Review"]
+categories: []
 cover: "/media/review-imagine-dragons-smoke-mirrors-image1.jpg"
 draft: false
-review_required: true
+review_required: false
 date: 2015-02-18
 ---
-
-# **Review: Imagine Dragons “Smoke + Mirrors”**
-
-*Added by* **Darian Bolin** *on February 18, 2015.*
 
 ![](/media/review-imagine-dragons-smoke-mirrors-image1.jpg)
 

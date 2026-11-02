@@ -1,3 +1,3 @@
 ---
-name: "Bradyn Spurlock"
+name: "BRADYN SPURLOCK"
 ---
