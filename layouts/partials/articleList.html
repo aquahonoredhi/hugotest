@@ -1,13 +1,21 @@
 {{ $style := .style | default "standard" }}
 {{ $context := .context }}
-{{ $counts := dict "standard" 5 "featured" 3 }}
-{{ $count := index $counts $style | default 5 }}
 {{ $offset := $context.Store.Get "articleListOffset" | default 0 }}
 {{ $articles := where $context.Site.RegularPages "Section" "articles" }}
 {{ if isset . "pages" }}
     {{ $articles = where .pages "Section" "articles" }}
 {{ end }}
 {{ $articles = $articles.ByDate.Reverse }}
+{{ $count := 0 }}
+{{ if eq $style "remaining" }}
+    {{ $remaining := sub (len $articles) $offset }}
+    {{ if gt $remaining 0 }}
+        {{ $count = $remaining }}
+    {{ end }}
+{{ else }}
+    {{ $counts := dict "standard" 5 "featured" 3 }}
+    {{ $count = index $counts $style | default 5 }}
+{{ end }}
 {{ $context.Store.Set "articleListOffset" (add $offset $count) }}
 <div class="articlesList articlesList-{{ $style }}">
     {{ range first $count (after $offset $articles) }}
