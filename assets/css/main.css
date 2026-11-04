@@ -13,30 +13,80 @@ main, footer {
 img {
     max-width:100%;
 }
-nav ul {
+nav > .site-nav {
     list-style: none;
     display: flex;
     align-items: center;
     margin: 0;
-    padding: 0 2ch 0 2ch;
-
+    padding: 0 2ch;
 }
-nav ul li {
+
+.site-nav > li {
     margin:1ch;
     font-family: 'Open Sans', sans-serif;
 }
-nav ul li:nth-child(2) {
+
+.site-nav > li:nth-child(2) {
     margin-left: auto;
 }
-nav ul li:first-child {
+
+.site-nav > .site-nav__brand {
     font-family: 'Oswald', sans-serif;
     font-size: 16pt;
-
 }
+
 nav a {
     text-decoration: none;
     color: #ffffff;
 }
+
+.site-nav .menu-item {
+    position: relative;
+}
+
+.site-nav .menu-item--has-children > a::after {
+    content: " \25BE";
+}
+
+.site-nav .submenu {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    min-width: max-content;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0.5ch 0;
+    background-color: #d3413f;
+    box-shadow: 0 0.5ch 1ch rgb(0 0 0 / 20%);
+}
+
+.site-nav .submenu .submenu {
+    top: 0;
+    left: 100%;
+}
+
+.site-nav .menu-item:hover > .submenu,
+.site-nav .menu-item:focus-within > .submenu {
+    display: flex;
+}
+
+.site-nav .submenu > li {
+    margin: 0;
+    white-space: nowrap;
+}
+
+.site-nav .submenu a {
+    display: block;
+    padding: 1ch 2ch;
+}
+
+.site-nav .submenu a:hover,
+.site-nav .submenu a:focus {
+    background-color: #b83230;
+}
+
 header {
     background-color: #d3413f;
 }

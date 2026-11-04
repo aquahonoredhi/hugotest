@@ -1,0 +1,10 @@
+<li class="menu-item{{ with .Children }} menu-item--has-children{{ end }}">
+    <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ with .Children }}
+    <ul class="submenu">
+        {{ range . }}
+        {{ partial "menu-item.html" . }}
+        {{ end }}
+    </ul>
+    {{ end }}
+</li>

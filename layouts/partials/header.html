@@ -1,11 +1,9 @@
 <header>
     <nav>
-        <ul>
-           <li><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
-            {{ range site.Home.Pages }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </li>
+        <ul class="site-nav">
+           <li class="site-nav__brand"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
+            {{ range site.Menus.main }}
+            {{ partial "menu-item.html" . }}
             {{ end }}
         </ul>
     </nav>

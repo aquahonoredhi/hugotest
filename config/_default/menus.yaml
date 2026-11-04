@@ -1,0 +1,10 @@
+main:
+  - name: Articles
+    url: /articles/
+    weight: 1
+  - name: Staff
+    url: /staff/
+    weight: 2
+  - name: Categories
+    url: /categories/
+    weight: 3
