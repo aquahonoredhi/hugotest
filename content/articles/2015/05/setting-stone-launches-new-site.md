@@ -1,8 +1,9 @@
 ---
 title: "Setting Stone Launches New Site"
-author: "Tribune Staff Writer"
+author: ["Tribune Staff Writer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/setting-stone-launches-new-site-image2.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Homecoming Proposals"
-author: "M. Hickman & M. Huddleston, Staff Reporters and Homecoming Enthusiasts"
+author: ["M. Hickman & M. Huddleston, Staff Reporters and Homecoming Enthusiasts"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/homecoming-proposals-image4.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Alabama Shakes in Indianapolis"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/alabama-shakes-in-indianapolis-image1.jpg"
 draft: false
 review_required: false

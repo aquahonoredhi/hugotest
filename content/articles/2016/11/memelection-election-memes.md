@@ -1,8 +1,9 @@
 ---
 title: "Memelection- Election Memes"
-author: "\"Meme Team\" Hicks & Hudds"
+author: ["\"Meme Team\" Hicks & Hudds"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/memelection-election-memes-image3.jpg"
 draft: false
 review_required: false

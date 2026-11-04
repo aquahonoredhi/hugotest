@@ -1,8 +1,9 @@
 ---
 title: "Mrs. Aerni_  Pursuing_"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/mrs-aerni-pursuing-image1.jpg"
 draft: false
 review_required: false

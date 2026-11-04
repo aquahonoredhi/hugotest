@@ -1,8 +1,9 @@
 ---
 title: "Degradation of Lyricism in Hip-Hop"
-author: "Ryan Arvin"
+author: ["Ryan Arvin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

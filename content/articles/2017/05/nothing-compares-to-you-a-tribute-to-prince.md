@@ -1,8 +1,9 @@
 ---
 title: "Nothing Compares to You_ A Tribute to Prince"
-author: "Madi Hickman"
+author: ["Madi Hickman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

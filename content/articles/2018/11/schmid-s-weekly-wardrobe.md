@@ -1,8 +1,9 @@
 ---
 title: "Schmid’s Weekly Wardrobe"
-author: "SKYLER BROWN"
+author: ["SKYLER BROWN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/schmid-s-weekly-wardrobe-image1.jpg"
 draft: false
 review_required: false

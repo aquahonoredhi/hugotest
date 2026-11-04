@@ -1,8 +1,9 @@
 ---
 title: "Minions Review"
-author: "Adarsha Shah"
+author: ["Adarsha Shah"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/minions-review-image1.jpg"
 draft: false
 review_required: false

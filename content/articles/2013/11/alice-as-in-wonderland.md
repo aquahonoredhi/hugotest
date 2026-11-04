@@ -1,8 +1,9 @@
 ---
 title: "Alice, As In Wonderland"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/alice-as-in-wonderland-image2.jpg"
 draft: false
 review_required: false

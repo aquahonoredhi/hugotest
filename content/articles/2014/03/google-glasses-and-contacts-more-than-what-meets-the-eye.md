@@ -1,8 +1,9 @@
 ---
 title: "Google Glasses and Contacts_ More Than What Meets the Eye"
-author: "Morgan McQueen"
+author: ["Morgan McQueen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/google-glasses-and-contacts-more-than-what-meets-the-eye-image2.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "A Conversation with Ryan Arvin"
-author: "Ezra"
+author: ["Ezra"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/a-conversation-with-ryan-arvin-image1.jpg"
 draft: false
 review_required: false

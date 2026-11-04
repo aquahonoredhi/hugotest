@@ -1,12 +1,13 @@
 ---
 title: "Principal Davie Testifies at Ohio House(1)"
-author: "PENDING REVIEW"
+author: ["PENDING REVIEW"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/principal-davie-testifies-at-ohio-house-1-image1.png"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **Principal Davie Testifies at Ohio House**

@@ -1,8 +1,9 @@
 ---
 title: "The DACA Program And Its Effect On Talawanda"
-author: "K.E. FISHER"
+author: ["K.E. FISHER"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Review_ Baby J"
-author: "Will Salzarulo"
+author: ["Will Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/review-baby-j-image1.jpg"
 draft: false
 review_required: false

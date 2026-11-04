@@ -1,15 +1,14 @@
 ---
 title: "EdChoice Questions Barrier Between Public and Private Schooling"
-author: "Rita Armitage"
+author: ["Rita Armitage"]
 nickname: ""
 categories: ["Local", "News", "School"]
+tags: ["Bogan", "Ed Choice", "School funding"]
 cover: "/media/edchoice-questions-barrier-between-public-and-private-schooling-image1.jpg"
 draft: false
 review_required: false
 date: 2020-01-31
 ---
-
-*Tags:* [**Bogan**](http://talawandatribune.org/tag/bogan/)*,* [**Ed Choice**](http://talawandatribune.org/tag/ed-choice/)*,* [**School funding**](http://talawandatribune.org/tag/school-funding/)
 
 EdChoice is a program in Ohio described by the Ohio Department of Education as a program that “provides students from designated public schools the opportunity to attend participating private schools. The program also provides low-income students who are entering kindergarten through 12th grade scholarship opportunities.” This program is set to expand on Feb.1, with more schools being classified as ‘underperforming.’ The program uses state tests to designate six performance markers, and if a school fails to meet any of them, they will be eligible for this program.
 

@@ -1,15 +1,14 @@
 ---
 title: "THS Ice Hockey Looks to Build on Best Year in Recent Memory"
-author: "Luke West Poley"
+author: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["Hockey"]
 cover: "/media/ths-ice-hockey-looks-to-build-on-best-year-in-recent-memory-image1.png"
 draft: false
 review_required: false
 date: 2020-11-17
 ---
-
-*Tags:* [**Hockey**](http://talawandatribune.org/tag/hockey/)
 
 THS Ice Hockey Looks to Build on Best Year in Recent Memory
 

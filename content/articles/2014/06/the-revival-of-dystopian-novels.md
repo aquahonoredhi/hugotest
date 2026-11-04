@@ -1,8 +1,9 @@
 ---
 title: "The Revival of Dystopian Novels"
-author: "laureltilton"
+author: ["laureltilton"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-revival-of-dystopian-novels-image1.jpg"
 draft: false
 review_required: false

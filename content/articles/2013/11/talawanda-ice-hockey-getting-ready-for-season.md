@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Ice Hockey Getting Ready For Season"
-author: "jansson"
+author: ["jansson"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

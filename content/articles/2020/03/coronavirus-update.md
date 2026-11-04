@@ -1,15 +1,14 @@
 ---
 title: "Coronavirus Update"
-author: "Rita Barclay-Hart and Eliot Berberich"
+author: ["Rita Barclay-Hart and Eliot Berberich"]
 nickname: ""
 categories: ["Local", "National & Global", "News", "School"]
+tags: ["coronavirus"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-03-12
 ---
-
-*Tags:* [**coronavirus**](http://talawandatribune.org/tag/coronavirus/)
 
 UPDATE 7:12 P.M. Thursday, March 12 by Amanda Weatherwax:
 

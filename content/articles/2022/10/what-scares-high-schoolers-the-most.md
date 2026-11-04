@@ -1,8 +1,9 @@
 ---
 title: "What Scares High Schoolers the Most"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/what-scares-high-schoolers-the-most-image1.png"
 draft: false
 review_required: false

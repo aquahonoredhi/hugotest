@@ -1,8 +1,9 @@
 ---
 title: "The Oscars 2022_ What You Missed"
-author: "JORDAN GRESHAM"
+author: ["JORDAN GRESHAM"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-oscars-2022-what-you-missed-image5.jpg"
 draft: false
 review_required: false

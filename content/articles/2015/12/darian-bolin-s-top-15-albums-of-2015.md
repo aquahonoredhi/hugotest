@@ -1,8 +1,9 @@
 ---
 title: "Darian Bolin’s Top 15 Albums of 2015"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/darian-bolin-s-top-15-albums-of-2015-image1.jpg"
 draft: false
 review_required: false

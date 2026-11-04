@@ -1,8 +1,9 @@
 ---
 title: "Bengals Off to a Great Start"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/bengals-off-to-a-great-start-image1.png"
 draft: false
 review_required: false

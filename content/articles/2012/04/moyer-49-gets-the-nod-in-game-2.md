@@ -1,8 +1,9 @@
 ---
 title: "Moyer, 49, Gets the Nod In Game 2"
-author: "Mitch Poetter"
+author: ["Mitch Poetter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

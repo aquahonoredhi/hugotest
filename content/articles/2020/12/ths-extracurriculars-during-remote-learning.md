@@ -1,15 +1,14 @@
 ---
 title: "THS Extracurriculars During Remote Learning"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["News", "School"]
-cover: "/media/ths-extracurriculars-during-remote-learning-image1.png"
+tags: ["remote extracurriculars"]
+cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-12-15
 ---
-
-*Tags:* [**remote extracurriculars**](http://talawandatribune.org/tag/remote-extracurriculars/)![](/media/ths-extracurriculars-during-remote-learning-image1.png)
 
 **THS Extracurriculars During Remote Learning**
 

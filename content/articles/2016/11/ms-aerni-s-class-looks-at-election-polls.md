@@ -1,8 +1,9 @@
 ---
 title: "Ms. Aerni_s Class Looks at Election Polls"
-author: "Mary Kate Huddleston"
+author: ["Mary Kate Huddleston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ms-aerni-s-class-looks-at-election-polls-image1.jpg"
 draft: false
 review_required: false

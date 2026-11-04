@@ -1,15 +1,14 @@
 ---
 title: "Homecoming Week is Here"
-author: "RITA BARCLAY HART"
+author: ["RITA BARCLAY HART"]
 nickname: ""
 categories: ["News"]
+tags: ["Hoco"]
 cover: "/media/homecoming-week-is-here-image1.jpg"
 draft: false
 review_required: false
 date: 2018-09-19
 ---
-
-*Tags:* [**Hoco**](http://talawandatribune.org/tag/hoco/)*,* **Homecoming 2018**
 
 OXFORD, OH — It’s here! Homecoming week is here! With Spirit Week, the Homecoming Parade, and the Homecoming Football Game coming up this week, Talawanda is gearing up for an awesome celebration.
 

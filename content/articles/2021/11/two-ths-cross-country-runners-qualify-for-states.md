@@ -1,8 +1,9 @@
 ---
 title: "Two THS Cross Country Runners Qualify for States"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Freaky Friday This Thursday"
-author: "Rita Armitage"
+author: ["Rita Armitage"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/freaky-friday-this-thursday-image1.jpg"
 draft: false
 review_required: false

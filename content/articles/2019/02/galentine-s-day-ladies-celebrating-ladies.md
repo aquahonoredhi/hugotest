@@ -1,8 +1,9 @@
 ---
 title: "Galentine’s Day_ “Ladies Celebrating Ladies”"
-author: "BY: ELLA PRYTHERCH"
+author: ["BY: ELLA PRYTHERCH"]
 nickname: ""
 categories: ["Culture"]
+tags: []
 cover: "/media/galentine-s-day-ladies-celebrating-ladies-image1.jpg"
 draft: false
 review_required: false

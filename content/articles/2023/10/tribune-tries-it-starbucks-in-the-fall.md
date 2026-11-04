@@ -1,8 +1,9 @@
 ---
 title: "Tribune Tries It_ Starbucks in the Fall"
-author: "Liv Mcgownd"
+author: ["Liv Mcgownd"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tribune-tries-it-starbucks-in-the-fall-image2.png"
 draft: false
 review_required: false

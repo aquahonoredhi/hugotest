@@ -1,8 +1,9 @@
 ---
 title: "Veterans Day"
-author: "Sam Davis"
+author: ["Sam Davis"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/veterans-day-image1.jpg"
 draft: false
 review_required: false

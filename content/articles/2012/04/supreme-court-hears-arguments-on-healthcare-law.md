@@ -1,8 +1,9 @@
 ---
 title: "Supreme Court Hears Arguments on Healthcare Law"
-author: "Jason Kline"
+author: ["Jason Kline"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/supreme-court-hears-arguments-on-healthcare-law-image1.jpg"
 draft: false
 review_required: false

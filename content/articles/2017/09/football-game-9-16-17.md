@@ -1,8 +1,9 @@
 ---
 title: "Football Game 9_16_17"
-author: "Photos By: Camry Winsted-Neeley"
+author: ["Photos By: Camry Winsted-Neeley"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/football-game-9-16-17-image9.jpg"
 draft: false
 review_required: false

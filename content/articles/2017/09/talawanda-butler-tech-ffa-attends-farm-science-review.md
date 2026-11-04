@@ -1,8 +1,9 @@
 ---
 title: "Talawanda_Butler Tech FFA Attends Farm Science Review"
-author: "Camry W-N"
+author: ["Camry W-N"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/talawanda-butler-tech-ffa-attends-farm-science-review-image5.jpg"
 draft: false
 review_required: false

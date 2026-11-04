@@ -1,8 +1,9 @@
 ---
 title: "Cotton Candy Grapes_ Forbidden Fruit"
-author: "JB Danoff"
+author: ["JB Danoff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

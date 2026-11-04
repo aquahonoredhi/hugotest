@@ -1,8 +1,9 @@
 ---
 title: "Oxford Ice Cream Review"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

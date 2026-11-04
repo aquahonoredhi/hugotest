@@ -1,8 +1,9 @@
 ---
 title: "The Wall_ Spirit Week Politics"
-author: "Ben Phillips, Star Reporter"
+author: ["Ben Phillips, Star Reporter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

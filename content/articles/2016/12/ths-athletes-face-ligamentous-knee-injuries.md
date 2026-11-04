@@ -1,8 +1,9 @@
 ---
 title: "THS Athletes Face Ligamentous Knee Injuries"
-author: "Austin Howard and Charis Whalen"
+author: ["Austin Howard and Charis Whalen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

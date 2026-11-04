@@ -1,15 +1,14 @@
 ---
 title: "Information About Course Scheduling for the 2021-2022 School Year"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["2021-2022 Course Offerings", "classes", "Scheduling"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2021-02-03
 ---
-
-*Tags:* [**2021-2022 Course Offerings**](http://talawandatribune.org/tag/2021-2022-course-offerings/)*,* [**classes**](http://talawandatribune.org/tag/classes/)*,* [**Scheduling**](http://talawandatribune.org/tag/scheduling/)
 
 Information About Course Scheduling for the 2021-2022 School Year
 

@@ -1,8 +1,9 @@
 ---
 title: "Sam Davis Reviews Best Nuggets in Town"
-author: "Sam Davis"
+author: ["Sam Davis"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/sam-davis-reviews-best-nuggets-in-town-image4.jpg"
 draft: false
 review_required: false

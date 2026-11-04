@@ -1,16 +1,10 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<div>
-    {{ now.Format "Mon Jan 2 2006" }}
-    {{ .Content }}
-</div>
-<div id="articlesList">
-    {{ range first 20 (where .Site.RegularPages "Section" "articles") }}
-    <div class="articleListing">
-        <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <div>{{ .Params.Author }}</div>
+    <h1>{{ .Title }}</h1>
+    <div>
+        {{ now.Format "Mon Jan 2 2006" }}
+        {{ .Content }}
     </div>
-    {{ end }}
-</div>
+    {{ partial "articleList.html" (dict "context" . "style" "standard")}}
+    {{ partial "articleList.html" (dict "context" . "style" "featured")}}
+
 {{ end }}

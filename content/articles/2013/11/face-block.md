@@ -1,8 +1,9 @@
 ---
 title: "Face Block"
-author: "jansson"
+author: ["jansson"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/face-block-image1.jpg"
 draft: false
 review_required: false

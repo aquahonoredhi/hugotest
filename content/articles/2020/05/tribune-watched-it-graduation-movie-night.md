@@ -1,8 +1,9 @@
 ---
 title: "Tribune Watched it_ Graduation Movie Night"
-author: "Eleanor Prytherch, Class of 2020"
+author: ["Eleanor Prytherch, Class of 2020"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tribune-watched-it-graduation-movie-night-image1.jpg"
 draft: false
 review_required: false

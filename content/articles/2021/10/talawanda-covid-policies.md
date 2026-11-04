@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Covid Policies"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

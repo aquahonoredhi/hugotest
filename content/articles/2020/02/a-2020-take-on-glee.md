@@ -1,15 +1,14 @@
 ---
 title: "A 2020 Take on “Glee”"
-author: "Hiley Kresse"
+author: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]
+tags: ["Glee"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-02-25
 ---
-
-*Tags:* [**Glee**](http://talawandatribune.org/tag/glee/)
 
 Although the last episode of Ryan Murphy’s *Glee* aired on March 20, 2015, today’s teenagers still have very strong opinions on the show. The entire series can be streamed on Netflix, and Hiley Kresse, resident Tribune expert on all things *Glee*, has some favorite and least favorites.
 

@@ -1,8 +1,9 @@
 ---
 title: "The “Sweet Seven” Eating Outdoors"
-author: "jansson"
+author: ["jansson"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-sweet-seven-eating-outdoors-image2.jpg"
 draft: false
 review_required: false

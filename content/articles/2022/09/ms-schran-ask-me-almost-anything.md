@@ -1,8 +1,9 @@
 ---
 title: "Ms. Schran_  Ask Me Almost Anything"
-author: "Jordan Gresham"
+author: ["Jordan Gresham"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ms-schran-ask-me-almost-anything-image1.jpg"
 draft: false
 review_required: false

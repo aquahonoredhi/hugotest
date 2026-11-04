@@ -1,8 +1,9 @@
 ---
 title: "Openview Cinema Produces New THS Promo"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/openview-cinema-produces-new-ths-promo-image2.png"
 draft: false
 review_required: false

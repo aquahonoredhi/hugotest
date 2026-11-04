@@ -1,8 +1,9 @@
 ---
 title: "Opinion_ Incorrect, Insensitive, and Irrelevant"
-author: "E. Sullivan"
+author: ["E. Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/opinion-incorrect-insensitive-and-irrelevant-image1.png"
 draft: false
 review_required: false

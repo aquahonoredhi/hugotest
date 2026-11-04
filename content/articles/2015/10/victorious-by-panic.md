@@ -1,8 +1,9 @@
 ---
 title: "“Victorious” by Panic"
-author: "Katie Johnston"
+author: ["Katie Johnston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

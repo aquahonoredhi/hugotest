@@ -1,8 +1,9 @@
 ---
 title: "04_26_2012 – Mean Teachers, Burger King, and Beards"
-author: "Joseph L.A. Hall"
+author: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

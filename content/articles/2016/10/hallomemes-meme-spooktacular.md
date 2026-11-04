@@ -1,8 +1,9 @@
 ---
 title: "Hallomemes- Meme Spooktacular"
-author: "\"Meme Team\" Hicks & Hudds"
+author: ["\"Meme Team\" Hicks & Hudds"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/hallomemes-meme-spooktacular-image3.jpg"
 draft: false
 review_required: false

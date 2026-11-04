@@ -1,8 +1,9 @@
 ---
 title: "Jim Gaffigan_ White Bread Tour Comes to Oxford"
-author: "Connor Yezierski"
+author: ["Connor Yezierski"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/jim-gaffigan-white-bread-tour-comes-to-oxford-image1.jpg"
 draft: false
 review_required: false

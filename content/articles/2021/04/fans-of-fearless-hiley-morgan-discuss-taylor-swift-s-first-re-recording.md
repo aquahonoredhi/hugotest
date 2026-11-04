@@ -1,8 +1,9 @@
 ---
 title: "Fans of Fearless_ Hiley & Morgan Discuss Taylor Swift’s First Re-Recording"
-author: "Hiley Kresse & Morgan Sly"
+author: ["Hiley Kresse & Morgan Sly"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

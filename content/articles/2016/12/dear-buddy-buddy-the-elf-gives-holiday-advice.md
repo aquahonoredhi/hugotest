@@ -1,8 +1,9 @@
 ---
 title: "“Dear Buddy”_ Buddy the Elf Gives Holiday Advice"
-author: "Madi"
+author: ["Madi"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/dear-buddy-buddy-the-elf-gives-holiday-advice-image1.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "It Gets Better Shares Their Message of Equality"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/it-gets-better-shares-their-message-of-equality-image1.jpg"
 draft: false
 review_required: false

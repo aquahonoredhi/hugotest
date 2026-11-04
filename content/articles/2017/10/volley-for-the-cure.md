@@ -1,8 +1,9 @@
 ---
 title: "Volley for the Cure"
-author: "Camry W-N"
+author: ["Camry W-N"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/volley-for-the-cure-image19.jpg"
 draft: false
 review_required: false

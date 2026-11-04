@@ -1,8 +1,9 @@
 ---
 title: "The Princess Theatre"
-author: "Katie Johnston"
+author: ["Katie Johnston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-princess-theatre-image1.jpg"
 draft: false
 review_required: false

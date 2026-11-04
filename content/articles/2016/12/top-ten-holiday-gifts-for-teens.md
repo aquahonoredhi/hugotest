@@ -1,8 +1,9 @@
 ---
 title: "Top Ten Holiday Gifts for Teens"
-author: "MK Huddleston"
+author: ["MK Huddleston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

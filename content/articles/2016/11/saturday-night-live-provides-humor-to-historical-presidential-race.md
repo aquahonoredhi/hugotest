@@ -1,8 +1,9 @@
 ---
 title: "Saturday Night Live Provides Humor to Historical Presidential Race"
-author: "Dylan Hacker"
+author: ["Dylan Hacker"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

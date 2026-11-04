@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Hockey_ Photo Story"
-author: "Charis Whalen"
+author: ["Charis Whalen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/talawanda-hockey-photo-story-image8.jpg"
 draft: false
 review_required: false

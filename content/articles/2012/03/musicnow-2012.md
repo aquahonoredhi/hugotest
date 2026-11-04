@@ -1,8 +1,9 @@
 ---
 title: "MusicNOW–2012"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/musicnow-2012-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Halo 4 Update"
-author: "Justin Nipper"
+author: ["Justin Nipper"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/halo-4-update-image1.png"
 draft: false
 review_required: false

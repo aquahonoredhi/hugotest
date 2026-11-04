@@ -1,8 +1,9 @@
 ---
 title: "The Dead Mall Effect"
-author: "Ben Phillips"
+author: ["Ben Phillips"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-dead-mall-effect-image1.jpg"
 draft: false
 review_required: false

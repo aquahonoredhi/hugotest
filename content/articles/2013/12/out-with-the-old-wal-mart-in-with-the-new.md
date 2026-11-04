@@ -1,8 +1,9 @@
 ---
 title: "Out With the Old Wal-Mart, In With the New…"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/out-with-the-old-wal-mart-in-with-the-new-image3.jpg"
 draft: false
 review_required: false

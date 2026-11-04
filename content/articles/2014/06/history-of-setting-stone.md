@@ -1,8 +1,9 @@
 ---
 title: "History of Setting Stone"
-author: "chelseaashdown"
+author: ["chelseaashdown"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/history-of-setting-stone-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "A THS Student’s Guide to Levy Discourse"
-author: "L. Franks"
+author: ["L. Franks"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/a-ths-student-s-guide-to-levy-discourse-image1.png"
 draft: false
 review_required: false

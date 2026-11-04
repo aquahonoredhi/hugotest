@@ -1,8 +1,9 @@
 ---
 title: "Homecoming Brings First Braves Win"
-author: "A. Howard, Staff Reporter"
+author: ["A. Howard, Staff Reporter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

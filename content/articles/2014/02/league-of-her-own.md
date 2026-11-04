@@ -1,8 +1,9 @@
 ---
 title: "League of Her Own"
-author: "laureltilton"
+author: ["laureltilton"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/league-of-her-own-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Miami Redhawks Approach NCHC Playoffs"
-author: "PENDING REVIEW"
+author: ["PENDING REVIEW"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: true

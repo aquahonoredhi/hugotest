@@ -1,15 +1,14 @@
 ---
 title: "Remote Learning_ The Benefits and Drawbacks for Ninth Graders at THS"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["remote learning"]
 cover: "/media/remote-learning-the-benefits-and-drawbacks-for-ninth-graders-at-ths-image2.png"
 draft: false
 review_required: false
 date: 2020-10-06
 ---
-
-*Tags:* [**remote learning**](http://talawandatribune.org/tag/remote-learning/)
 
 **Remote Learning: The Benefits and Drawbacks for Ninth Graders at THS**
 

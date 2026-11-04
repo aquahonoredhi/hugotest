@@ -1,15 +1,14 @@
 ---
 title: "Class VR Coming to Talawanda"
-author: "LOGAN MURRAY"
+author: ["LOGAN MURRAY"]
 nickname: ""
 categories: ["News", "School", "Technology"]
+tags: ["virtual reality"]
 cover: "/media/class-vr-coming-to-talawanda-image4.jpg"
 draft: false
 review_required: false
 date: 2018-10-07
 ---
-
-*Tags:* [**virtual reality**](http://talawandatribune.org/tag/virtual-reality/)
 
 Waxy was right when she said “oh, woah!” This year students will see class from a new perspective as all of the Talawanda buildings received eight virtual reality/augmented reality (VR/AR) headsets that the teachers can use to have the students view three-dimensional objects as well as view pictures and videos in 360 degrees. The new VR headsets are from the Class VR company which will allow the teachers to set up lessons in hundreds of categories from space to shopping. After they have chosen a lesson or lessons they can send it to the students to view and explore. After the lesson has started the teachers can see exactly what all the students are looking at and create focus points that the headset will lead the student toward by leaving them a trail to follow and pointing out the object that the teacher has selected.
 

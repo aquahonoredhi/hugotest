@@ -1,8 +1,9 @@
 ---
 title: "What an Override of DeWine’s Veto of HB 68 Could Mean for Transgender Medical Care in Ohio"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/what-an-override-of-dewine-s-veto-of-hb-68-could-mean-for-transgender-medical-care-in-ohio-image1.png"
 draft: false
 review_required: false

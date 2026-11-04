@@ -1,8 +1,9 @@
 ---
 title: "Opening of Armstrong Student Center Right Around the Corner"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/opening-of-armstrong-student-center-right-around-the-corner-image8.jpg"
 draft: false
 review_required: false

@@ -1,15 +1,14 @@
 ---
 title: "Top 10 Albums of 2020"
-author: "Hiley Kresse"
+author: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment", "Musical Arts"]
+tags: ["best albums 2020", "Music"]
 cover: "/media/top-10-albums-of-2020-image1.jpg"
 draft: false
 review_required: false
 date: 2021-01-12
 ---
-
-*Tags:* [**best albums 2020**](http://talawandatribune.org/tag/best-albums-2020/)*,* [**Music**](http://talawandatribune.org/tag/music/)
 
 ![](/media/top-10-albums-of-2020-image1.jpg)
 

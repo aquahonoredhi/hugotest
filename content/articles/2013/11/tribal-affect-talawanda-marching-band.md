@@ -1,8 +1,9 @@
 ---
 title: "Tribal Affect_ Talawanda Marching Band"
-author: "Connor Yezierski"
+author: ["Connor Yezierski"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tribal-affect-talawanda-marching-band-image3.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Fifteen Seconds of Fame"
-author: "Shr-Hua Moore"
+author: ["Shr-Hua Moore"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/fifteen-seconds-of-fame-image1.jpg"
 draft: false
 review_required: false

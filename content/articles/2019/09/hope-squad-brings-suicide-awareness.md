@@ -1,8 +1,9 @@
 ---
 title: "Hope Squad Brings Suicide Awareness"
-author: "C. Goodman"
+author: ["C. Goodman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/hope-squad-brings-suicide-awareness-image1.jpg"
 draft: false
 review_required: false

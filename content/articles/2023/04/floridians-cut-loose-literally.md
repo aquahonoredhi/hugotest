@@ -1,8 +1,9 @@
 ---
 title: "Floridians Cut Loose, Literally"
-author: "Stenghis Khan"
+author: ["Stenghis Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

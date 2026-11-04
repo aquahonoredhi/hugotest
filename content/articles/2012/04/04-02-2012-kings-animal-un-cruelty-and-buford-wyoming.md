@@ -1,8 +1,9 @@
 ---
 title: "04_02_2012 – Kings, Animal (Un)Cruelty, and Buford, Wyoming"
-author: "Joseph L.A. Hall"
+author: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/04-02-2012-kings-animal-un-cruelty-and-buford-wyoming-image1.jpg"
 draft: false
 review_required: false

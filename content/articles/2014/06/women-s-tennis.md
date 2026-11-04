@@ -1,8 +1,9 @@
 ---
 title: "Women’s Tennis"
-author: "Morgan McQueen"
+author: ["Morgan McQueen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/women-s-tennis-image1.jpg"
 draft: false
 review_required: false

@@ -1,12 +1,13 @@
 ---
 title: "Seniors Pick Up Caps & Gowns_ Photo Story"
-author: "Photos by Andy Zimmerman"
+author: ["Photos by Andy Zimmerman"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/seniors-pick-up-caps-gowns-photo-story-image4.jpg"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **Seniors Pick Up Caps & Gowns: Photo Story**

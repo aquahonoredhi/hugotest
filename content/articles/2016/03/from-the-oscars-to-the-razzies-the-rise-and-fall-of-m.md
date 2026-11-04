@@ -1,8 +1,9 @@
 ---
 title: "From the Oscars to the Razzies_ The Rise And Fall of M"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Volley for the Cure"
-author: "De'Asia Owens & Kylie King"
+author: ["De'Asia Owens & Kylie King"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/volley-for-the-cure-image3.jpg"
 draft: false
 review_required: false

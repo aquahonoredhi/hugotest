@@ -1,8 +1,9 @@
 ---
 title: "The “Aerni” Good Morning Smoothie"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-aerni-good-morning-smoothie-image1.jpg"
 draft: false
 review_required: false

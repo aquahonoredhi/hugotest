@@ -1,8 +1,9 @@
 ---
 title: "THS Mock Trial Competes at Districts"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-mock-trial-competes-at-districts-image1.jpg"
 draft: false
 review_required: false

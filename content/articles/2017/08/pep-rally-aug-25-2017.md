@@ -1,8 +1,9 @@
 ---
 title: "Pep Rally Aug 25, 2017"
-author: "Photos by Charis Whalen"
+author: ["Photos by Charis Whalen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/pep-rally-aug-25-2017-image4.jpg"
 draft: false
 review_required: false

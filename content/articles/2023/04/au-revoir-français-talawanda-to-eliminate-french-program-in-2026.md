@@ -1,8 +1,9 @@
 ---
 title: "Au Revoir Français_ Talawanda to Eliminate French Program in 2026"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "LUCKY 13"
-author: "MK HUDDLESTON"
+author: ["MK HUDDLESTON"]
 nickname: ""
 categories: ["Sports"]
+tags: []
 cover: "/media/lucky-13-image1.jpg"
 draft: false
 review_required: false

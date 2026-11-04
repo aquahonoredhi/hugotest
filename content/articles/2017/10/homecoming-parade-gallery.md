@@ -1,8 +1,9 @@
 ---
 title: "Homecoming Parade Gallery"
-author: "MK Huddleston and Camry Winsted-Neeley"
+author: ["MK Huddleston and Camry Winsted-Neeley"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/homecoming-parade-gallery-image2.jpg"
 draft: false
 review_required: false

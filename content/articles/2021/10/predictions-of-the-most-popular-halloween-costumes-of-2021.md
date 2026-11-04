@@ -1,8 +1,9 @@
 ---
 title: "Predictions of the Most Popular Halloween Costumes of 2021"
-author: "Jordan Gresham"
+author: ["Jordan Gresham"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

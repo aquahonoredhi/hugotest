@@ -1,8 +1,9 @@
 ---
 title: "Andrew Lynn Takes Over as Drama Director"
-author: "young"
+author: ["young"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/andrew-lynn-takes-over-as-drama-director-image1.jpg"
 draft: false
 review_required: false

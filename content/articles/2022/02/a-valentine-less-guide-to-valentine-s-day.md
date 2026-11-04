@@ -1,8 +1,9 @@
 ---
 title: "A Valentine-Less Guide to Valentine’s Day"
-author: "Jordan Gresham"
+author: ["Jordan Gresham"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

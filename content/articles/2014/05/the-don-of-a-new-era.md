@@ -1,8 +1,9 @@
 ---
 title: "The Don of a New Era"
-author: "christophermock"
+author: ["christophermock"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-don-of-a-new-era-image1.jpg"
 draft: false
 review_required: false

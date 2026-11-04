@@ -1,8 +1,9 @@
 ---
 title: "Review_ Star Wars – Jedi_ Survivor"
-author: "Will Salzarulo"
+author: ["Will Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/review-star-wars-jedi-survivor-image1.jpg"
 draft: false
 review_required: false

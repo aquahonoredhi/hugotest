@@ -1,8 +1,9 @@
 ---
 title: "Lil Nas X_ Marketing Genius, Queer Icon, or Both"
-author: "Jean R Pateman"
+author: ["Jean R Pateman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

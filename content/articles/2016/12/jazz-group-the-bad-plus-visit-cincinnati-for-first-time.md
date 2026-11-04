@@ -1,8 +1,9 @@
 ---
 title: "Jazz Group The Bad Plus Visit Cincinnati for First Time"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/jazz-group-the-bad-plus-visit-cincinnati-for-first-time-image18.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Hungry For A Good Film_ The Hunger Games"
-author: "Morgan Murray"
+author: ["Morgan Murray"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/hungry-for-a-good-film-the-hunger-games-image2.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "New Tech at Talawanda"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/new-tech-at-talawanda-image1.png"
 draft: false
 review_required: false

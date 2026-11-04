@@ -1,8 +1,9 @@
 ---
 title: "The Doritos Tacos Locos"
-author: "Luke Howard"
+author: ["Luke Howard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-doritos-tacos-locos-image2.jpg"
 draft: false
 review_required: false

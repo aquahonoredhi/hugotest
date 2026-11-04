@@ -1,8 +1,9 @@
 ---
 title: "An Ugly Club"
-author: "ELLEN HEYOB"
+author: ["ELLEN HEYOB"]
 nickname: ""
 categories: ["Local", "News"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

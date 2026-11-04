@@ -1,15 +1,14 @@
 ---
 title: "Learning to Drive in a Pandemic"
-author: "K.E. Fisher"
+author: ["K.E. Fisher"]
 nickname: ""
 categories: ["Local", "News"]
+tags: ["driving"]
 cover: "/media/learning-to-drive-in-a-pandemic-image1.jpg"
 draft: false
 review_required: false
 date: 2021-01-27
 ---
-
-*Tags:* [**driving**](http://talawandatribune.org/tag/driving/)
 
 ![](/media/learning-to-drive-in-a-pandemic-image1.jpg)
 

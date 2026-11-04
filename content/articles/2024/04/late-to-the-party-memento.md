@@ -1,8 +1,9 @@
 ---
 title: "Late To The Party_ Memento"
-author: "Will Salzarulo"
+author: ["Will Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/late-to-the-party-memento-image1.png"
 draft: false
 review_required: false

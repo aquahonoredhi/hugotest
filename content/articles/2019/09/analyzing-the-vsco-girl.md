@@ -1,8 +1,9 @@
 ---
 title: "Analyzing the VSCO Girl"
-author: "Ella Prytherch"
+author: ["Ella Prytherch"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/analyzing-the-vsco-girl-image1.jpg"
 draft: false
 review_required: false

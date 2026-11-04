@@ -1,8 +1,9 @@
 ---
 title: "Patty Griffin Supports New Album with Tour Stop in Indy"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/patty-griffin-supports-new-album-with-tour-stop-in-indy-image5.jpg"
 draft: false
 review_required: false

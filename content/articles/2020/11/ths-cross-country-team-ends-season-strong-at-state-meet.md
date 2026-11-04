@@ -1,15 +1,14 @@
 ---
 title: "THS Cross Country Team Ends Season Strong at State Meet"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["cross country states"]
 cover: "/media/ths-cross-country-team-ends-season-strong-at-state-meet-image4.jpg"
 draft: false
 review_required: false
 date: 2020-11-17
 ---
-
-*Tags:* [**cross country states**](http://talawandatribune.org/tag/cross-country-states/)
 
 **THS Cross Country Team Ends Season Strong at State Meet**
 

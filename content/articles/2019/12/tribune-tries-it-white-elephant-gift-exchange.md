@@ -1,15 +1,14 @@
 ---
 title: "Tribune Tries It_ White Elephant Gift Exchange"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["Columns", "Tribune Tries It"]
+tags: ["Christmas", "White Elephant"]
 cover: "/media/tribune-tries-it-white-elephant-gift-exchange-image1.jpg"
 draft: false
 review_required: false
 date: 2019-12-18
 ---
-
-*Tags:* [**Christmas**](http://talawandatribune.org/tag/christmas/)*,* [**White Elephant**](http://talawandatribune.org/tag/white-elephant/)
 
 A White Elephant Gift Exchange is the perfect way to get and give a fun gift with your friends or family this holiday season. The “game” is also called a “Yankee Swap,” according to Caroline Bologna of the [Huffington Post](https://www.huffpost.com/entry/holiday-game-yankee-swap-white-elephant-dirty-santa_n_5a2ecdb9e4b06e3bccf30ce6). The term “Yankee Swap” even appears in an 1855 writing by [Walt Whitman](https://esnpc.blogspot.com/2014/06/two-and-half-more-idioms-white.html) where he lists it as an example of “the essences of American things.” The name “White Elephant” has several origin stories, but Jake Flanigan of [Quartz](https://qz.com/353936/whats-so-special-about-a-white-elephant/) writes:
 

@@ -1,8 +1,9 @@
 ---
 title: "An Interview With ChatGPT"
-author: "William Salzarulo"
+author: ["William Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

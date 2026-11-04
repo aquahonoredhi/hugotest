@@ -1,8 +1,9 @@
 ---
 title: "THS Honors Veterans"
-author: "Waxy"
+author: ["Waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-honors-veterans-image1.jpg"
 draft: false
 review_required: false

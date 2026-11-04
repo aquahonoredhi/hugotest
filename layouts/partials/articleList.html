@@ -1,10 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+{{ $style := .style | default "standard" }}
+{{ $context := .context }}
+{{ $counts := dict "standard" 5 "featured" 3 }}
+{{ $count := index $counts $style | default 5 }}
+{{ $offset := $context.Store.Get "articleListOffset" | default 0 }}
+{{ $articles := where $context.Site.RegularPages "Section" "articles" }}
+{{ if isset . "pages" }}
+    {{ $articles = where .pages "Section" "articles" }}
+{{ end }}
+{{ $articles = $articles.ByDate.Reverse }}
+{{ $context.Store.Set "articleListOffset" (add $offset $count) }}
+<div class="articlesList articlesList-{{ $style }}">
+    {{ range first $count (after $offset $articles) }}
+        <div class="articleListing articleListing-{{ $style }}">
+            <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <div>
+                {{ range $index, $author := .GetTerms "author" }}
+                    {{ if $index }}, {{ end }}<a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+</div>

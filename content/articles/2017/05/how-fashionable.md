@@ -1,8 +1,9 @@
 ---
 title: "How Fashionable"
-author: "By: MK Huddleston and Madi Hickman"
+author: ["By: MK Huddleston and Madi Hickman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/how-fashionable-image3.jpg"
 draft: false
 review_required: false

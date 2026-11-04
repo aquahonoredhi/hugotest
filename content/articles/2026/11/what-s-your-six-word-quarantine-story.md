@@ -1,12 +1,13 @@
 ---
 title: "What’s Your Six-Word Quarantine Story_"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/what-s-your-six-word-quarantine-story-image3.jpg"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **What’s Your Six-Word Quarantine Story?**

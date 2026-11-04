@@ -1,8 +1,9 @@
 ---
 title: "Heart of Mexico in Talawanda"
-author: "N. Craig, Staff Reporter"
+author: ["N. Craig, Staff Reporter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/heart-of-mexico-in-talawanda-image1.jpg"
 draft: false
 review_required: false

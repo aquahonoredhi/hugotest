@@ -1,8 +1,9 @@
 ---
 title: "Review_ Chvrches’ “Every Open Eye”"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/review-chvrches-every-open-eye-image1.jpg"
 draft: false
 review_required: false

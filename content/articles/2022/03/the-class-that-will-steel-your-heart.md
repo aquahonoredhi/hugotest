@@ -1,8 +1,9 @@
 ---
 title: "The Class That Will “Steel” Your Heart"
-author: "MORGAN SLY"
+author: ["MORGAN SLY"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "The Lemon’s Top 8 Scariest Halloween Costumes"
-author: "Muhammed"
+author: ["Muhammed"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-lemon-s-top-8-scariest-halloween-costumes-image1.png"
 draft: false
 review_required: false

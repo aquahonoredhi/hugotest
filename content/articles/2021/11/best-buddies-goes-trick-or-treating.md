@@ -1,8 +1,9 @@
 ---
 title: "Best Buddies Goes Trick or Treating"
-author: "JORDAN GRESHAM"
+author: ["JORDAN GRESHAM"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/best-buddies-goes-trick-or-treating-image1.jpg"
 draft: false
 review_required: false

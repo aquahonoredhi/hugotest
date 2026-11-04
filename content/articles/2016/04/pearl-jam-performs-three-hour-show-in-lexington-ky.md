@@ -1,8 +1,9 @@
 ---
 title: "Pearl Jam Performs Three-Hour Show in Lexington, KY"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/pearl-jam-performs-three-hour-show-in-lexington-ky-image1.jpg"
 draft: false
 review_required: false

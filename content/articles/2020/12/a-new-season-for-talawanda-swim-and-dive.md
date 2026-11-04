@@ -1,15 +1,14 @@
 ---
 title: "A New Season for Talawanda Swim and Dive"
-author: "Luke West Poley"
+author: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["swim and dive"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-12-01
 ---
-
-*Tags:* [**swim and dive**](http://talawandatribune.org/tag/swim-and-dive/)
 
 A New Season for Talawanda Swim and Dive
 

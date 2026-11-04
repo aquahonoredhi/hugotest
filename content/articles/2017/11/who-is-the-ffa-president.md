@@ -1,8 +1,9 @@
 ---
 title: "Who is the FFA President"
-author: "By: Camry Winsted-Neeley"
+author: ["By: Camry Winsted-Neeley"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/who-is-the-ffa-president-image1.jpg"
 draft: false
 review_required: false

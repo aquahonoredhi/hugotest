@@ -1,8 +1,9 @@
 ---
 title: "Music Notes_ The Land is Inhospitable and So Are We – Mitski (2023)_ Review"
-author: "Lauren Dysert"
+author: ["Lauren Dysert"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/music-notes-the-land-is-inhospitable-and-so-are-we-mitski-2023-review-image1.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Key Club Inspires Through Service"
-author: "L. Vaughn, Staff Reporter"
+author: ["L. Vaughn, Staff Reporter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/key-club-inspires-through-service-image1.jpg"
 draft: false
 review_required: false

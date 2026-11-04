@@ -1,8 +1,9 @@
 ---
 title: "Is This Manning’s Last Year in the NFL"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/is-this-manning-s-last-year-in-the-nfl-image1.jpg"
 draft: false
 review_required: false

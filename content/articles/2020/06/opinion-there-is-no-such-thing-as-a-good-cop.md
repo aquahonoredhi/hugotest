@@ -1,8 +1,9 @@
 ---
 title: "Opinion_ There is no such thing as a ‘Good Cop’"
-author: "PENDING REVIEW"
+author: ["PENDING REVIEW"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: true

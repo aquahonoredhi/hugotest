@@ -1,8 +1,9 @@
 ---
 title: "Agario_ The World of Colorful Cells"
-author: "De'Asia Owens"
+author: ["De'Asia Owens"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

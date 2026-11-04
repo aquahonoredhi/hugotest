@@ -1,8 +1,9 @@
 ---
 title: "Top 10 Romance Movies to Watch on Valentine’s Day"
-author: "Kim Reteguin"
+author: ["Kim Reteguin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/top-10-romance-movies-to-watch-on-valentine-s-day-image1.png"
 draft: false
 review_required: false

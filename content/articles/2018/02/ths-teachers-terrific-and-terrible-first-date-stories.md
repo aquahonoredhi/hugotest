@@ -1,8 +1,9 @@
 ---
 title: "THS Teachers’ Terrific and Terrible First Date Stories"
-author: "By: MAGNOLIA SORENSEN"
+author: ["By: MAGNOLIA SORENSEN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-teachers-terrific-and-terrible-first-date-stories-image1.jpg"
 draft: false
 review_required: false

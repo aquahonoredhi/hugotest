@@ -1,8 +1,9 @@
 ---
 title: "Braves Sweep Harrison in Academic Challenge Season Opener"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/braves-sweep-harrison-in-academic-challenge-season-opener-image3.jpg"
 draft: false
 review_required: false

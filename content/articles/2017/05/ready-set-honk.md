@@ -1,8 +1,9 @@
 ---
 title: "Ready!  Set!  Honk!"
-author: "Ella Cope"
+author: ["Ella Cope"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ready-set-honk-image7.jpg"
 draft: false
 review_required: false

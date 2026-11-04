@@ -1,8 +1,9 @@
 ---
 title: "9 Hours Nightly_ High School Students Still Sleep Deprived"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/9-hours-nightly-high-school-students-still-sleep-deprived-image2.jpg"
 draft: false
 review_required: false

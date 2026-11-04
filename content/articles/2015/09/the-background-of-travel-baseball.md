@@ -1,8 +1,9 @@
 ---
 title: "The Background of Travel Baseball"
-author: "harper"
+author: ["harper"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-background-of-travel-baseball-image1.jpg"
 draft: false
 review_required: false

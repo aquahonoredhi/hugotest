@@ -1,15 +1,14 @@
 ---
 title: "Grammy Nomination Predictions"
-author: "Hiley Kresse"
+author: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment"]
+tags: ["Grammy Nominations"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-11-12
 ---
-
-*Tags:* [**Grammy Nominations**](http://talawandatribune.org/tag/grammy-nominations/)
 
 On November 24 the Recording Academy will announce its nominations for the 2021 Grammy Awards. The noms will be announced via livestream starting at 9 a.m. The Tribune’s own Hiley Kresse has made her predictions for 6 of the coveted 84 categories:
 

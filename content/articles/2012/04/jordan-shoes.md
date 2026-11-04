@@ -1,8 +1,9 @@
 ---
 title: "Jordan Shoes"
-author: "ryanlickliter"
+author: ["ryanlickliter"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

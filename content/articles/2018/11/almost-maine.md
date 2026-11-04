@@ -1,8 +1,9 @@
 ---
 title: "Almost, Maine"
-author: "CAMRY W-N"
+author: ["CAMRY W-N"]
 nickname: ""
 categories: ["Arts and Entertainment", "News", "School", "Theater"]
+tags: []
 cover: "/media/almost-maine-image1.jpg"
 draft: false
 review_required: false

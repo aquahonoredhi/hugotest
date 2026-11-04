@@ -1,8 +1,9 @@
 ---
 title: "THS Cross Country Starts Strong"
-author: "MUHAMMED KHAN"
+author: ["MUHAMMED KHAN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

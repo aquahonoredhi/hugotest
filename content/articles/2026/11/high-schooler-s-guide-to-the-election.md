@@ -1,12 +1,13 @@
 ---
 title: "High Schooler’s Guide to the Election"
-author: "RITA ARMITAGE"
+author: ["RITA ARMITAGE"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **High Schooler’s Guide to the Election**

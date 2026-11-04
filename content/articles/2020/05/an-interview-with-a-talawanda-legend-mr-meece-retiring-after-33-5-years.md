@@ -1,15 +1,14 @@
 ---
 title: "An Interview with a Talawanda Legend_ Mr. Meece Retiring After 33.5 Years"
-author: "K.E. FISHER"
+author: ["K.E. FISHER"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["Mr. Meece"]
 cover: "/media/an-interview-with-a-talawanda-legend-mr-meece-retiring-after-33-5-years-image3.png"
 draft: false
 review_required: false
 date: 2020-05-05
 ---
-
-*Tags:* [**Mr. Meece**](http://talawandatribune.org/tag/mr-meece/)
 
 **An Interview with a Talawanda Legend: Mr. Meece Retiring After 33.5 Years**
 

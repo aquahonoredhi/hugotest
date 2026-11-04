@@ -1,8 +1,9 @@
 ---
 title: "Epaulettes_ The Walking Sharks"
-author: "Luca Berberich"
+author: ["Luca Berberich"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

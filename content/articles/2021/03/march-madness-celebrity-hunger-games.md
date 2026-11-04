@@ -1,8 +1,9 @@
 ---
 title: "March Madness_ Celebrity Hunger Games"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/march-madness-celebrity-hunger-games-image2.png"
 draft: false
 review_required: false

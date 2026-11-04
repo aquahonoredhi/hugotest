@@ -1,8 +1,9 @@
 ---
 title: "HBO’s “Westworld” Creates Moral Divide Among Television Fans _ Living Without Limits_ Not Always The Best"
-author: "K.E. FISHER"
+author: ["K.E. FISHER"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/hbo-s-westworld-creates-moral-divide-among-television-fans-living-without-limits-not-always-the-best-image1.jpg"
 draft: false
 review_required: false

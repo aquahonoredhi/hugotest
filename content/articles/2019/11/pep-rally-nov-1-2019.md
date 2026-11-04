@@ -1,8 +1,9 @@
 ---
 title: "Pep Rally Nov. 1 2019"
-author: "Kei Brown"
+author: ["Kei Brown"]
 nickname: ""
 categories: ["Photo Galleries", "Photography and Art", "Sports"]
+tags: []
 cover: "/media/pep-rally-nov-1-2019-image2.jpg"
 draft: false
 review_required: false

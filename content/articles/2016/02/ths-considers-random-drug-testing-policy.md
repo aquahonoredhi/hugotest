@@ -1,8 +1,9 @@
 ---
 title: "THS Considers Random Drug Testing Policy"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-considers-random-drug-testing-policy-image2.jpg"
 draft: false
 review_required: false

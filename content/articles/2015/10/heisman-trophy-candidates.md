@@ -1,8 +1,9 @@
 ---
 title: "Heisman Trophy Candidates"
-author: "Tyler Rothert"
+author: ["Tyler Rothert"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/heisman-trophy-candidates-image3.jpg"
 draft: false
 review_required: false

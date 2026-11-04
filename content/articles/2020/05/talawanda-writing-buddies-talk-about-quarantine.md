@@ -1,15 +1,14 @@
 ---
 title: "Talawanda Writing Buddies Talk About Quarantine"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["coronavirus", "Covid-19", "Marshall", "pandemic", "remote learning"]
 cover: "/media/talawanda-writing-buddies-talk-about-quarantine-image1.png"
 draft: false
 review_required: false
 date: 2020-05-12
 ---
-
-*Tags:* [**coronavirus**](http://talawandatribune.org/tag/coronavirus/)*,* [**Covid-19**](http://talawandatribune.org/tag/covid-19/)*,* [**Marshall**](http://talawandatribune.org/tag/marshall/)*,* [**pandemic**](http://talawandatribune.org/tag/pandemic/)*,* [**remote learning**](http://talawandatribune.org/tag/remote-learning/)
 
 **Talawanda Writing Buddies Talk About Quarantine**
 

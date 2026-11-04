@@ -1,8 +1,9 @@
 ---
 title: "Covid-19 in Ohio’s Prisons"
-author: "JEAN R. PATEMAN"
+author: ["JEAN R. PATEMAN"]
 nickname: ""
 categories: ["Local", "National & Global", "News"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

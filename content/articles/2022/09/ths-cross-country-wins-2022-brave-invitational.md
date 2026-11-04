@@ -1,8 +1,9 @@
 ---
 title: "THS Cross Country Wins 2022 Brave Invitational"
-author: "Photo Story by Sadie Abbitt and Nazla Walsh"
+author: ["Photo Story by Sadie Abbitt and Nazla Walsh"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-cross-country-wins-2022-brave-invitational-image5.png"
 draft: false
 review_required: false

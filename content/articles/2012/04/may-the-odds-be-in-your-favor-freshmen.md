@@ -1,8 +1,9 @@
 ---
 title: "May the Odds be in Your Favor, Freshmen"
-author: "Lauren Flum"
+author: ["Lauren Flum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/may-the-odds-be-in-your-favor-freshmen-image1.jpg"
 draft: false
 review_required: false

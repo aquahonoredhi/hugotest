@@ -1,8 +1,9 @@
 ---
 title: "New Season of “Community” Streaming on Yahoo"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/new-season-of-community-streaming-on-yahoo-image2.jpg"
 draft: false
 review_required: false

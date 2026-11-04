@@ -1,8 +1,9 @@
 ---
 title: "“It’ll Be Okay”_  Setting Stone Hosts Second Virtual Coffee House"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/it-ll-be-okay-setting-stone-hosts-second-virtual-coffee-house-image14.png"
 draft: false
 review_required: false

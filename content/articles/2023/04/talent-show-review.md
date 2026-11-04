@@ -1,8 +1,9 @@
 ---
 title: "Talent Show Review"
-author: "Morgan Sly"
+author: ["Morgan Sly"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/talent-show-review-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Images from the THS Spring Musical_ Annie"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-the-ths-spring-musical-annie-image14.jpg"
 draft: false
 review_required: false

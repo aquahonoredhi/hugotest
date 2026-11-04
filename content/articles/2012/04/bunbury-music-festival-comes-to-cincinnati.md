@@ -1,8 +1,9 @@
 ---
 title: "Bunbury Music Festival comes to Cincinnati"
-author: "Ezra"
+author: ["Ezra"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/bunbury-music-festival-comes-to-cincinnati-image1.png"
 draft: false
 review_required: false

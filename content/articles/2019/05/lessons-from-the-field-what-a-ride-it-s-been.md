@@ -1,8 +1,9 @@
 ---
 title: "Lessons from the Field_ What a ride it’s been"
-author: "PATRICK GESHAN"
+author: ["PATRICK GESHAN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/lessons-from-the-field-what-a-ride-it-s-been-image1.jpg"
 draft: false
 review_required: false

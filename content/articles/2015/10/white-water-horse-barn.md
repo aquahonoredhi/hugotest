@@ -1,8 +1,9 @@
 ---
 title: "White Water Horse Barn"
-author: "Sam Davis"
+author: ["Sam Davis"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/white-water-horse-barn-image1.png"
 draft: false
 review_required: false

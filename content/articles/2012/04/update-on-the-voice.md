@@ -1,8 +1,9 @@
 ---
 title: "Update on The Voice"
-author: "Lauren South"
+author: ["Lauren South"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

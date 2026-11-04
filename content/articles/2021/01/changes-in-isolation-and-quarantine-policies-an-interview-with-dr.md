@@ -1,15 +1,14 @@
 ---
 title: "Changes in Isolation and Quarantine Policies_ an Interview With Dr"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["Covid"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2021-01-12
 ---
-
-*Tags:* [**Covid**](http://talawandatribune.org/tag/covid/)
 
 **Changes in Isolation and Quarantine Policies: an Interview With Dr. Theroux**
 

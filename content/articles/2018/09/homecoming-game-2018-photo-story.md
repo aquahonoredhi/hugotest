@@ -1,8 +1,9 @@
 ---
 title: "Homecoming Game 2018 Photo Story"
-author: "Photos by: CAMRY W-N & FIAT T."
+author: ["Photos by: CAMRY W-N & FIAT T."]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/homecoming-game-2018-photo-story-image13.jpg"
 draft: false
 review_required: false

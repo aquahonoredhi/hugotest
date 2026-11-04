@@ -1,8 +1,9 @@
 ---
 title: "Studying Techniques for Upcoming Exams"
-author: "staff"
+author: ["staff"]
 nickname: ""
 categories: ["School"]
+tags: []
 cover: "/media/studying-techniques-for-upcoming-exams-image1.jpg"
 draft: false
 review_required: false

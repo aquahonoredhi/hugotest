@@ -1,8 +1,9 @@
 ---
 title: "Toco Madera Performs at THS"
-author: "Article By: Victorial Dobson; Photos By: Joe Adkins"
+author: ["Article By: Victorial Dobson; Photos By: Joe Adkins"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/toco-madera-performs-at-ths-image4.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "New COVID-19 Policies Offer an Alternative Way to Quarantine"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

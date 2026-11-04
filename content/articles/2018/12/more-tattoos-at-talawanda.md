@@ -1,8 +1,9 @@
 ---
 title: "More Tattoos at Talawanda"
-author: "HILEY KRESSE"
+author: ["HILEY KRESSE"]
 nickname: ""
 categories: ["Lifestyle"]
+tags: []
 cover: "/media/more-tattoos-at-talawanda-image1.jpg"
 draft: false
 review_required: false

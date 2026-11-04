@@ -1,8 +1,9 @@
 ---
 title: "A Step-by-Step Guide to Passing your Driver’s Test"
-author: "M. Sly"
+author: ["M. Sly"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

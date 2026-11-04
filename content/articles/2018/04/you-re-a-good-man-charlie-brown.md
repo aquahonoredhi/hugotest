@@ -1,8 +1,9 @@
 ---
 title: "You’re a Good Man Charlie Brown"
-author: "CAMRY WINSTED-NEELEY"
+author: ["CAMRY WINSTED-NEELEY"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/you-re-a-good-man-charlie-brown-image5.jpg"
 draft: false
 review_required: false

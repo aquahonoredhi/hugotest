@@ -1,8 +1,9 @@
 ---
 title: "Clash of Clans Storms Talawanda"
-author: "Connor Yezierski"
+author: ["Connor Yezierski"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/clash-of-clans-storms-talawanda-image2.jpg"
 draft: false
 review_required: false

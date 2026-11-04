@@ -1,8 +1,9 @@
 ---
 title: "Images from Edward Sharpe and the Magnetic Zeros Concert in Cincinnati"
-author: "Lauren Flum"
+author: ["Lauren Flum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-edward-sharpe-and-the-magnetic-zeros-concert-in-cincinnati-image5.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "THS President Muhammed Khan Gives Inaugural Address"
-author: "Definitely Not Written by President Khan"
+author: ["Definitely Not Written by President Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-president-muhammed-khan-gives-inaugural-address-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "LeBron James Frustrated with New Jerseys"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/lebron-james-frustrated-with-new-jerseys-image1.jpg"
 draft: false
 review_required: false

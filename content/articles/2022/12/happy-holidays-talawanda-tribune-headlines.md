@@ -1,8 +1,9 @@
 ---
 title: "Happy Holidays_ Talawanda Tribune Headlines"
-author: "Jingle Bell Rockers"
+author: ["Jingle Bell Rockers"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

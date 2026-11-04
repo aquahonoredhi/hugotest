@@ -1,15 +1,14 @@
 ---
 title: "THS Cross Country Takes First at SWOC"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["cross country"]
 cover: "/media/ths-cross-country-takes-first-at-swoc-image4.jpg"
 draft: false
 review_required: false
 date: 2020-10-22
 ---
-
-*Tags:* [**cross country**](http://talawandatribune.org/tag/cross-country/)
 
 After working hard all summer and fall, the THS boys and girls cross country teams have both taken first place at SWOC. “There is a quote by Juma Ikangaa that says ‘The will to win means nothing without the will to prepare.’ Our runners prepared themselves and it paid off with an outstanding performance by every individual,” Coach Stiver said.
 

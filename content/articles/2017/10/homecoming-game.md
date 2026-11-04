@@ -1,8 +1,9 @@
 ---
 title: "Homecoming Game"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/homecoming-game-image16.jpg"
 draft: false
 review_required: false

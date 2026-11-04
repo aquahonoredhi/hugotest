@@ -1,8 +1,9 @@
 ---
 title: "Lessons From the Field_ Surprises"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/lessons-from-the-field-surprises-image1.jpg"
 draft: false
 review_required: false

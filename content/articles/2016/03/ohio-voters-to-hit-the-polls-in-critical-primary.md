@@ -1,8 +1,9 @@
 ---
 title: "Ohio Voters to Hit the Polls in Critical Primary"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Images from the 2015 Homecoming Game"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-the-2015-homecoming-game-image18.jpg"
 draft: false
 review_required: false

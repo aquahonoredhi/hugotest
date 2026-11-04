@@ -1,15 +1,14 @@
 ---
 title: "Veteran’s Day 2019"
-author: "Kei Brown"
+author: ["Kei Brown"]
 nickname: ""
 categories: ["News", "Photo Galleries", "School"]
+tags: ["Veterans Day"]
 cover: "/media/veteran-s-day-2019-image2.jpg"
 draft: false
 review_required: false
 date: 2019-11-12
 ---
-
-*Tags:* [**Veterans Day**](http://talawandatribune.org/tag/veterans-day/)
 
 > ![](/media/veteran-s-day-2019-image2.jpg)
 >

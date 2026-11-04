@@ -1,8 +1,9 @@
 ---
 title: "THS Baseball Left With No Coach"
-author: "PENDING REVIEW"
+author: ["PENDING REVIEW"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/ths-baseball-left-with-no-coach-image1.jpg"
 draft: false
 review_required: true

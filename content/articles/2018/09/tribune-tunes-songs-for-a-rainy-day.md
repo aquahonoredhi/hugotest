@@ -1,8 +1,9 @@
 ---
 title: "Tribune Tunes_ Songs for a Rainy Day"
-author: "STAFF"
+author: ["STAFF"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

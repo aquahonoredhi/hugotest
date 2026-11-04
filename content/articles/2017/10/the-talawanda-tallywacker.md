@@ -1,8 +1,9 @@
 ---
 title: "The Talawanda Tallywacker"
-author: "Cassady Edwards"
+author: ["Cassady Edwards"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-talawanda-tallywacker-image2.jpg"
 draft: false
 review_required: false

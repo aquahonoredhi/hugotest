@@ -1,8 +1,9 @@
 ---
 title: "5 Ways to Cram for AP Exams"
-author: "Morgan Sly"
+author: ["Morgan Sly"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/5-ways-to-cram-for-ap-exams-image1.jpg"
 draft: false
 review_required: false

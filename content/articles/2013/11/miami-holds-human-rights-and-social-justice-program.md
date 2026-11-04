@@ -1,8 +1,9 @@
 ---
 title: "Miami Holds Human Rights and Social Justice Program"
-author: "Lauren Flum"
+author: ["Lauren Flum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/miami-holds-human-rights-and-social-justice-program-image2.jpg"
 draft: false
 review_required: false

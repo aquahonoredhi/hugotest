@@ -1,8 +1,9 @@
 ---
 title: "Friendsgiving Tips"
-author: "STAFF"
+author: ["STAFF"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/friendsgiving-tips-image2.jpg"
 draft: false
 review_required: false

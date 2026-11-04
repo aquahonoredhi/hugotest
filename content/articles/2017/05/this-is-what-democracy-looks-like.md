@@ -1,8 +1,9 @@
 ---
 title: "This is What Democracy Looks Like"
-author: "ELLA COPE"
+author: ["ELLA COPE"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/this-is-what-democracy-looks-like-image1.png"
 draft: false
 review_required: false

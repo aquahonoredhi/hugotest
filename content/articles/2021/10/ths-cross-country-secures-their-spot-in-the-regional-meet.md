@@ -1,8 +1,9 @@
 ---
 title: "THS Cross Country Secures Their Spot in the Regional Meet"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-cross-country-secures-their-spot-in-the-regional-meet-image2.png"
 draft: false
 review_required: false

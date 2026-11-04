@@ -1,8 +1,9 @@
 ---
 title: "Spring Sports Review"
-author: "Austin Howard"
+author: ["Austin Howard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

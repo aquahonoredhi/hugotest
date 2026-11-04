@@ -1,8 +1,9 @@
 ---
 title: "‘Basically Armageddon’_ Talawanda Schools faces budget cuts after levy fails"
-author: "L. Franks"
+author: ["L. Franks"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

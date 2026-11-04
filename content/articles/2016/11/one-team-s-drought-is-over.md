@@ -1,8 +1,9 @@
 ---
 title: "One Team’s Drought is Over"
-author: "Logan Vaughn"
+author: ["Logan Vaughn"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Teachers Sound Off on Presidential Election"
-author: "N. Craig"
+author: ["N. Craig"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "A Review of THS Drama’s Presentation of ‘The Best Christmas Pageant Ever"
-author: "Amanda Weatherwax"
+author: ["Amanda Weatherwax"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "How Old is Too Old for Trick or Treating"
-author: "smith"
+author: ["smith"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

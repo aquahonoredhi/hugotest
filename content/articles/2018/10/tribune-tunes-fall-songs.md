@@ -1,8 +1,9 @@
 ---
 title: "Tribune Tunes_ Fall Songs"
-author: "STAFF"
+author: ["STAFF"]
 nickname: ""
 categories: ["Tribune Tunes"]
+tags: []
 cover: "/media/tribune-tunes-fall-songs-image1.jpg"
 draft: false
 review_required: false

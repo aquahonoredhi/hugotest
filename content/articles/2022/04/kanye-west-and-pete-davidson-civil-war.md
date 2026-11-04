@@ -1,8 +1,9 @@
 ---
 title: "Kanye West and Pete Davidson_ Civil War"
-author: "Muhammed Khan and L. Franks"
+author: ["Muhammed Khan and L. Franks"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/kanye-west-and-pete-davidson-civil-war-image3.jpg"
 draft: false
 review_required: false

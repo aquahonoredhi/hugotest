@@ -1,8 +1,9 @@
 ---
 title: "Images from the 2016 THS Commencement"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-the-2016-ths-commencement-image15.jpg"
 draft: false
 review_required: false

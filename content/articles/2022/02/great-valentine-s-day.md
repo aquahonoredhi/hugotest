@@ -1,8 +1,9 @@
 ---
 title: "“Great” Valentine’s Day"
-author: "Logan Murray"
+author: ["Logan Murray"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/great-valentine-s-day-image1.png"
 draft: false
 review_required: false

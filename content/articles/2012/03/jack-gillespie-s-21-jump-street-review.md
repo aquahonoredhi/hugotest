@@ -1,8 +1,9 @@
 ---
 title: "Jack Gillespie’s “21 Jump Street” Review"
-author: "Jack Gillespie"
+author: ["Jack Gillespie"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Nerf Warz 2013"
-author: "Ian Weller"
+author: ["Ian Weller"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/nerf-warz-2013-image3.jpg"
 draft: false
 review_required: false

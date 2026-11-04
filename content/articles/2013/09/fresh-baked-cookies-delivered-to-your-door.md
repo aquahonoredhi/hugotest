@@ -1,8 +1,9 @@
 ---
 title: "Fresh Baked Cookies Delivered to Your Door"
-author: "Susanna Smith"
+author: ["Susanna Smith"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/fresh-baked-cookies-delivered-to-your-door-image1.jpg"
 draft: false
 review_required: false

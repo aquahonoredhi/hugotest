@@ -1,8 +1,9 @@
 ---
 title: "What Does the Fox Say"
-author: "admin"
+author: ["admin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/what-does-the-fox-say-image1.png"
 draft: false
 review_required: false

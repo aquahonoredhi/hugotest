@@ -1,8 +1,9 @@
 ---
 title: "Freedom Summer- Commemorating 50 Years"
-author: "Lauren Flum and Chelsea Ashdown"
+author: ["Lauren Flum and Chelsea Ashdown"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/freedom-summer-commemorating-50-years-image2.jpg"
 draft: false
 review_required: false

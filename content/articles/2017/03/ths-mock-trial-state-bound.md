@@ -1,8 +1,9 @@
 ---
 title: "THS Mock Trial_ State Bound"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-mock-trial-state-bound-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Braves V Mohawks Photo Gallery"
-author: "A. Hibbard"
+author: ["A. Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/braves-v-mohawks-photo-gallery-image5.jpg"
 draft: false
 review_required: false

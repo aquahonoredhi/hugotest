@@ -1,8 +1,9 @@
 ---
 title: "Donald Trump Named Victor"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

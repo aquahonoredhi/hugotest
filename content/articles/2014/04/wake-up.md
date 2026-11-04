@@ -1,8 +1,9 @@
 ---
 title: "Wake Up"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/wake-up-image1.jpg"
 draft: false
 review_required: false

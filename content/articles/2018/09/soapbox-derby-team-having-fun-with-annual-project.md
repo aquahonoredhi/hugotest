@@ -1,8 +1,9 @@
 ---
 title: "SoapBox Derby Team Having Fun with Annual Project"
-author: "PATRICK GESHAN"
+author: ["PATRICK GESHAN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/soapbox-derby-team-having-fun-with-annual-project-image1.jpg"
 draft: false
 review_required: false

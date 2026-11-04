@@ -1,8 +1,9 @@
 ---
 title: "The Game’s Afoot"
-author: "CAMRY W-N"
+author: ["CAMRY W-N"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-game-s-afoot-image11.jpg"
 draft: false
 review_required: false

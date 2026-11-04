@@ -1,8 +1,9 @@
 ---
 title: "The Wall’s Response to the Second Presidential Debate"
-author: "Ben Phillips"
+author: ["Ben Phillips"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

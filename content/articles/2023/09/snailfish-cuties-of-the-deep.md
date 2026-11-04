@@ -1,8 +1,9 @@
 ---
 title: "Snailfish_ Cuties of the Deep"
-author: "Luca Berberich"
+author: ["Luca Berberich"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/snailfish-cuties-of-the-deep-image1.png"
 draft: false
 review_required: false

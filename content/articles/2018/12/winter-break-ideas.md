@@ -1,8 +1,9 @@
 ---
 title: "Winter Break Ideas"
-author: "SKYLER BROWN"
+author: ["SKYLER BROWN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

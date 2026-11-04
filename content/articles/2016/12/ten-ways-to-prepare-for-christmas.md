@@ -1,8 +1,9 @@
 ---
 title: "Ten Ways to Prepare for Christmas"
-author: "Nik \"Scrooge\" Craig"
+author: ["Nik \"Scrooge\" Craig"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ten-ways-to-prepare-for-christmas-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Hype for the Apocalypse"
-author: "By: Trenton Young"
+author: ["By: Trenton Young"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

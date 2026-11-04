@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Ninth Graders Honored in Student Voices Competition"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

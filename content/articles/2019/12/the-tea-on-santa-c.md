@@ -1,15 +1,14 @@
 ---
 title: "The Tea on Santa C"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["The Lemon"]
+tags: ["Santa Claus"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2019-12-17
 ---
-
-*Tags:* [**Santa Claus**](http://talawandatribune.org/tag/santa-claus/)
 
 *We at the Tribune conducted an extensive investigative project at the North Pole that required our reporters to be embedded (not in the snow, but in Santa’s toy shop). In order to protect the identities of our investigative staff, we have assigned aliases. What follows is the real deal tea on Santa C.:*
 

@@ -1,8 +1,9 @@
 ---
 title: "Curve Fever 2_ Annoying THS Teachers"
-author: "Dylan Hacker"
+author: ["Dylan Hacker"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

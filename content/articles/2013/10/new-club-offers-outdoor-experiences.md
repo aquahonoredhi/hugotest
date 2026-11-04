@@ -1,8 +1,9 @@
 ---
 title: "New Club Offers Outdoor Experiences"
-author: "smith"
+author: ["smith"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/new-club-offers-outdoor-experiences-image1.jpg"
 draft: false
 review_required: false

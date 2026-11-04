@@ -1,8 +1,9 @@
 ---
 title: "The Evolving Role of the First Lady"
-author: "Nate Abraham"
+author: ["Nate Abraham"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-evolving-role-of-the-first-lady-image1.jpg"
 draft: false
 review_required: false

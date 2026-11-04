@@ -1,15 +1,14 @@
 ---
 title: "Q & A_ Academic Challenge"
-author: "Luke West Poley"
+author: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["Ac Chall", "academic challenge", "Quiz Team"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2021-01-05
 ---
-
-*Tags:* [**Ac Chall**](http://talawandatribune.org/tag/ac-chall/)*,* [**academic challenge**](http://talawandatribune.org/tag/academic-challenge/)*,* [**Quiz Team**](http://talawandatribune.org/tag/quiz-team/)
 
 **Q&A: Academic Challenge**
 

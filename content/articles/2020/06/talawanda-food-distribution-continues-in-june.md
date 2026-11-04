@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Food Distribution Continues in June"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/talawanda-food-distribution-continues-in-june-image1.jpg"
 draft: false
 review_required: false

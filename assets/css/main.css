@@ -40,16 +40,16 @@ nav a {
 header {
     background-color: #d3413f;
 }
-#articlesList{
+.articlesList-standard {
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
 }
-.articleListing img {
+.articleListing-standard img {
     width: 100%;
     object-fit: cover;
 
 }
-.articleListing {
+.articleListing-standard {
     margin: 2ch;
     text-align: center;
 
@@ -58,4 +58,6 @@ header {
     text-decoration:none;
     color: #000000;
 }
-
+.articleListing-featured {
+    display:flex;
+}

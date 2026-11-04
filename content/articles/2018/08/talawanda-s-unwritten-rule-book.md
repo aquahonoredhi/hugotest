@@ -1,8 +1,9 @@
 ---
 title: "Talawanda’s Unwritten Rule Book"
-author: "KE FISHER"
+author: ["KE FISHER"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

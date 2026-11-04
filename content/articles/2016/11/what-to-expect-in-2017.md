@@ -1,8 +1,9 @@
 ---
 title: "What to Expect in 2017"
-author: "Nik Craig"
+author: ["Nik Craig"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "A Familiar Face in a New Position"
-author: "By: CAMRY W-N"
+author: ["By: CAMRY W-N"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/a-familiar-face-in-a-new-position-image3.jpg"
 draft: false
 review_required: false

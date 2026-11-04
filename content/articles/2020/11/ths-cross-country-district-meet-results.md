@@ -1,15 +1,14 @@
 ---
 title: "THS Cross Country District Meet Results"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["cross country"]
 cover: "/media/ths-cross-country-district-meet-results-image3.jpg"
 draft: false
 review_required: false
 date: 2020-11-02
 ---
-
-*Tags:* [**cross country**](http://talawandatribune.org/tag/cross-country/)
 
 The THS boys and girls cross country teams ran a great race at the District Meet on Saturday, October 24th, at Cedarville University. The top 7 male and top 7 female runners on the team competed, both of whom were in Division 1 for their races and ran in Race B. The boys team took 5th place in their race, and the girls took 2nd. Both teams have runners who are able to advance to the Regional Meet.
 

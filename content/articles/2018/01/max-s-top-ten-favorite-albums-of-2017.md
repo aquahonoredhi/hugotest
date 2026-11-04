@@ -1,8 +1,9 @@
 ---
 title: "Max’s Top Ten Favorite Albums of 2017"
-author: "Max Hannum"
+author: ["Max Hannum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/max-s-top-ten-favorite-albums-of-2017-image4.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Continuing the History"
-author: "K.E. Fisher"
+author: ["K.E. Fisher"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/continuing-the-history-image2.jpg"
 draft: false
 review_required: false

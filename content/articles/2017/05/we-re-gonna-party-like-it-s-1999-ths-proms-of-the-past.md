@@ -1,8 +1,9 @@
 ---
 title: "We’re Gonna Party Like It’s 1999_ THS Proms of the Past"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/we-re-gonna-party-like-it-s-1999-ths-proms-of-the-past-image1.jpg"
 draft: false
 review_required: false

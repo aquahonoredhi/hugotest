@@ -1,8 +1,9 @@
 ---
 title: "Internet Safety Tips With Ben Phillips"
-author: "B. Phillips is stuck in the 80s"
+author: ["B. Phillips is stuck in the 80s"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

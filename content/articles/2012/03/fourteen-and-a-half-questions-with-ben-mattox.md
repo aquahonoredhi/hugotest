@@ -1,8 +1,9 @@
 ---
 title: "Fourteen and a Half Questions with Ben Mattox"
-author: "Joseph DeVaughn"
+author: ["Joseph DeVaughn"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/fourteen-and-a-half-questions-with-ben-mattox-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Late to the Party_ Red Dead Redemption"
-author: "Will Salzarulo"
+author: ["Will Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/late-to-the-party-red-dead-redemption-image1.png"
 draft: false
 review_required: false

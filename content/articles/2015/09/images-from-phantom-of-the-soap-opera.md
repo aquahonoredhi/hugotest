@@ -1,8 +1,9 @@
 ---
 title: "Images from “Phantom of the Soap Opera”"
-author: "Staff Writer"
+author: ["Staff Writer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-phantom-of-the-soap-opera-image3.jpg"
 draft: false
 review_required: false

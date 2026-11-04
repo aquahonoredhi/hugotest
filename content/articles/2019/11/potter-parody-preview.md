@@ -1,15 +1,14 @@
 ---
 title: "Potter Parody Preview"
-author: "A. Weatherwax"
+author: ["A. Weatherwax"]
 nickname: ""
 categories: ["Arts and Entertainment", "Photo Galleries", "Theater"]
+tags: ["Drama", "Harry Potter", "Puffs"]
 cover: "/media/potter-parody-preview-image14.jpg"
 draft: false
 review_required: false
 date: 2019-11-15
 ---
-
-*Tags:* [**Drama**](http://talawandatribune.org/tag/drama/)*,* [**Harry Potter**](http://talawandatribune.org/tag/harry-potter/)*,* [**Puffs**](http://talawandatribune.org/tag/puffs/)
 
 Talawanda High School’s drama program hits the funny bone again and this time it’s with “Puffs: The Play,” written by Matt Cox and directed by Catherine Hudson. Fans of Harry Potter will recognize some favorite characters and plot points in the parody that tells the story of the “Puffs” who learn that it’s okay to be sorted into the house of loyal outcasts in a familiar wizarding school.
 

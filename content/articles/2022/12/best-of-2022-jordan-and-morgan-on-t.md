@@ -1,8 +1,9 @@
 ---
 title: "Best of 2022_ Jordan and Morgan on T"
-author: "Morgan Sly and Jordan Gresham"
+author: ["Morgan Sly and Jordan Gresham"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

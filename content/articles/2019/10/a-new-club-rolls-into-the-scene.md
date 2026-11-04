@@ -1,8 +1,9 @@
 ---
 title: "A New Club Rolls Into the Scene"
-author: "C. Goodman"
+author: ["C. Goodman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/a-new-club-rolls-into-the-scene-image1.jpg"
 draft: false
 review_required: false

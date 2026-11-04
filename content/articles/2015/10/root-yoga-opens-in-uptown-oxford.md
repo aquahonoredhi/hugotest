@@ -1,8 +1,9 @@
 ---
 title: "Root Yoga Opens in Uptown Oxford"
-author: "De’Asia Owens"
+author: ["De’Asia Owens"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/root-yoga-opens-in-uptown-oxford-image1.jpg"
 draft: false
 review_required: false

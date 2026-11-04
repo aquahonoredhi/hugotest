@@ -1,8 +1,9 @@
 ---
 title: "Academic Challenge Team Advisor, Scott Schmid, Prepares for a New Year"
-author: "Adarsha Shah"
+author: ["Adarsha Shah"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/academic-challenge-team-advisor-scott-schmid-prepares-for-a-new-year-image1.jpg"
 draft: false
 review_required: false

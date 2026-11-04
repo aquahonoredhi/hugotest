@@ -1,8 +1,9 @@
 ---
 title: "How NOT to Disappoint on Valentine’s Day"
-author: "Piper Muhlhauser"
+author: ["Piper Muhlhauser"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/how-not-to-disappoint-on-valentine-s-day-image1.jpg"
 draft: false
 review_required: false

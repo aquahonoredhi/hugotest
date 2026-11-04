@@ -1,8 +1,9 @@
 ---
 title: "Belle Fourche Pipeline Leaks on Same Day that Dakota Access Pipeline Vetoed"
-author: "Austin Hibbard"
+author: ["Austin Hibbard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/belle-fourche-pipeline-leaks-on-same-day-that-dakota-access-pipeline-vetoed-image1.jpg"
 draft: false
 review_required: false

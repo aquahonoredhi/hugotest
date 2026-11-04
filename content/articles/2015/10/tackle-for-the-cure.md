@@ -1,8 +1,9 @@
 ---
 title: "Tackle for the Cure"
-author: "De'Asia Owens"
+author: ["De'Asia Owens"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tackle-for-the-cure-image2.jpg"
 draft: false
 review_required: false

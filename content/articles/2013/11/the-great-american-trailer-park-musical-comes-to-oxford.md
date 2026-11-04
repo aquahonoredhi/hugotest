@@ -1,8 +1,9 @@
 ---
 title: "“The Great American Trailer Park Musical” Comes to Oxford"
-author: "Lauren Flum"
+author: ["Lauren Flum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-great-american-trailer-park-musical-comes-to-oxford-image1.jpg"
 draft: false
 review_required: false

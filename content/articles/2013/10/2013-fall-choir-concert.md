@@ -1,8 +1,9 @@
 ---
 title: "2013 Fall Choir Concert"
-author: "Morgan McQueen"
+author: ["Morgan McQueen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/2013-fall-choir-concert-image11.jpg"
 draft: false
 review_required: false

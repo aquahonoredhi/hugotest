@@ -1,8 +1,9 @@
 ---
 title: "Wear and Tear_ The Progressive Decay of Schools"
-author: "laureltilton"
+author: ["laureltilton"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

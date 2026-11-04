@@ -1,8 +1,9 @@
 ---
 title: "To Shave or Not To Shave"
-author: "Connor Yezierski"
+author: ["Connor Yezierski"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

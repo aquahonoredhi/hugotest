@@ -1,8 +1,9 @@
 ---
 title: "The Ongoing Crazordle"
-author: "Morgan Sly"
+author: ["Morgan Sly"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-ongoing-crazordle-image1.png"
 draft: false
 review_required: false

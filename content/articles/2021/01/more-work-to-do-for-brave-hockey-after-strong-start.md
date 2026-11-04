@@ -1,15 +1,14 @@
 ---
 title: "More Work to Do for Brave Hockey After Strong Start"
-author: "Luke West Poley"
+author: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["Hockey"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2021-01-05
 ---
-
-*Tags:* [**Hockey**](http://talawandatribune.org/tag/hockey/)
 
 **More Work to Do for Brave Hockey After Strong Start**
 

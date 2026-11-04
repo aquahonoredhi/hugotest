@@ -1,8 +1,9 @@
 ---
 title: "A THS Mystery_ The Lemon Investigates"
-author: "Muhammed"
+author: ["Muhammed"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

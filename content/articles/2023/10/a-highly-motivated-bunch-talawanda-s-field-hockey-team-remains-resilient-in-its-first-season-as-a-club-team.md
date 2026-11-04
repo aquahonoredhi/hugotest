@@ -1,8 +1,9 @@
 ---
 title: "“A Highly Motivated Bunch”_ Talawanda’s Field Hockey Team Remains Resilient in Its First Season as a Club Team"
-author: "Lily Franks"
+author: ["Lily Franks"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/a-highly-motivated-bunch-talawanda-s-field-hockey-team-remains-resilient-in-its-first-season-as-a-club-team-image1.jpg"
 draft: false
 review_required: false

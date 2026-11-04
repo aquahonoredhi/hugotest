@@ -1,8 +1,9 @@
 ---
 title: "Trump Continues Momentum with Nevada Win"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/trump-continues-momentum-with-nevada-win-image1.jpg"
 draft: false
 review_required: false

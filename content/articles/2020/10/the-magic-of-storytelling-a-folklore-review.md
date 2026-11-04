@@ -1,15 +1,14 @@
 ---
 title: "The Magic of Storytelling – A Folklore Review"
-author: "Hiley Kresse"
+author: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment"]
+tags: ["Taylor Swift"]
 cover: "/media/the-magic-of-storytelling-a-folklore-review-image1.png"
 draft: false
 review_required: false
 date: 2020-10-06
 ---
-
-*Tags:* [**Taylor Swift**](http://talawandatribune.org/tag/taylor-swift/)
 
 **The Magic of Storytelling – A Folklore Review**
 

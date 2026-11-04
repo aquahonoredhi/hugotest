@@ -1,8 +1,9 @@
 ---
 title: "Do You Know Where the Name “Talawanda” Comes From"
-author: "Katie Johnston"
+author: ["Katie Johnston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/do-you-know-where-the-name-talawanda-comes-from-image2.jpg"
 draft: false
 review_required: false

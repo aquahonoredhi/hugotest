@@ -1,8 +1,9 @@
 ---
 title: "Movember"
-author: "ELLEN HEYOB"
+author: ["ELLEN HEYOB"]
 nickname: ""
 categories: ["News", "School"]
+tags: []
 cover: "/media/movember-image5.jpg"
 draft: false
 review_required: false

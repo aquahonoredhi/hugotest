@@ -1,8 +1,9 @@
 ---
 title: "Tribune Publishes Virtual Magazine"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tribune-publishes-virtual-magazine-image1.png"
 draft: false
 review_required: false

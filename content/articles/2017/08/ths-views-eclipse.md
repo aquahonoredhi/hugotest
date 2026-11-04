@@ -1,8 +1,9 @@
 ---
 title: "THS Views Eclipse"
-author: "waxy and Charis Whalen"
+author: ["waxy and Charis Whalen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-views-eclipse-image9.jpg"
 draft: false
 review_required: false

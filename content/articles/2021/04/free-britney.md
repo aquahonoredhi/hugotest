@@ -1,8 +1,9 @@
 ---
 title: "Free Britney"
-author: "Hiley Kresse"
+author: ["Hiley Kresse"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,15 +1,14 @@
 ---
 title: "Talawanda Upsets Little Miami to Lead the SWOC in Academic Challenge"
-author: "Rita Barclay Hart"
+author: ["Rita Barclay Hart"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["academic challenge"]
 cover: "/media/talawanda-upsets-little-miami-to-lead-the-swoc-in-academic-challenge-image19.jpg"
 draft: false
 review_required: false
 date: 2020-01-31
 ---
-
-*Tags:* [**academic challenge**](http://talawandatribune.org/tag/academic-challenge/)
 
 On Wed., Jan. 15, 2020 the Talawanda Academic Challenge team broke Little Miami’s 46 match winning streak and took the reigns as the leader of the Southwest Ohio Conference. Talawanda won match 1 with a nail biter score of 75-70 and match 2 with a score of 91-74. This is Little Miami’s last year in the SWOC and the first time the team has been beat since 2016.
 

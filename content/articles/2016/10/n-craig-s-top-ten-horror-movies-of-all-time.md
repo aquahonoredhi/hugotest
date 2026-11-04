@@ -1,8 +1,9 @@
 ---
 title: "N. Craig_s Top Ten Horror Movies of All Time"
-author: "NIK CRAIG"
+author: ["NIK CRAIG"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

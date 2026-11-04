@@ -1,8 +1,9 @@
 ---
 title: "Critical Race Theory_ A Moral Panic"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/critical-race-theory-a-moral-panic-image1.jpg"
 draft: false
 review_required: false

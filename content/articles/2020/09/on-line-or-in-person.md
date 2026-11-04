@@ -1,8 +1,9 @@
 ---
 title: "On-Line or In Person"
-author: "Channel 85 Productions"
+author: ["Channel 85 Productions"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

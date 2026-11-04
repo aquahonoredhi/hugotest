@@ -1,8 +1,9 @@
 ---
 title: "Review_ Beirut’s “No No No”"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/review-beirut-s-no-no-no-image1.jpg"
 draft: false
 review_required: false

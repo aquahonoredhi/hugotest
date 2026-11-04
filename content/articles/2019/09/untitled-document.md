@@ -1,8 +1,9 @@
 ---
 title: "Untitled document"
-author: "Photos by K. Fears"
+author: ["Photos by K. Fears"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/untitled-document-image1.jpg"
 draft: false
 review_required: false

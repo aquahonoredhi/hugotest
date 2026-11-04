@@ -1,8 +1,9 @@
 ---
 title: "Talawanda Student Starts Her Own Charity"
-author: "Lauren Flum"
+author: ["Lauren Flum"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/talawanda-student-starts-her-own-charity-image1.jpg"
 draft: false
 review_required: false

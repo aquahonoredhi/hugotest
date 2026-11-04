@@ -1,8 +1,9 @@
 ---
 title: "The Blue-Ringed Octopus_ Tiny but Deadly"
-author: "Luca Berberich"
+author: ["Luca Berberich"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-blue-ringed-octopus-tiny-but-deadly-image1.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "The Day o’ Hats_ Spirit Week 2016"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/the-day-o-hats-spirit-week-2016-image1.jpg"
 draft: false
 review_required: false

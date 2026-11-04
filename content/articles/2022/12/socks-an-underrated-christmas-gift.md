@@ -1,8 +1,9 @@
 ---
 title: "Socks, an Underrated Christmas Gift"
-author: "Liv McGownd"
+author: ["Liv McGownd"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

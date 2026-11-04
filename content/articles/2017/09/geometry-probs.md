@@ -1,8 +1,9 @@
 ---
 title: "Geometry Probs"
-author: "Tribune Staff"
+author: ["Tribune Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/geometry-probs-image1.jpg"
 draft: false
 review_required: false

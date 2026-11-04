@@ -1,15 +1,14 @@
 ---
 title: "Swimming_ Senior Night_"
-author: "Photos by Kei Brown"
+author: ["Photos by Kei Brown"]
 nickname: ""
 categories: ["Sports"]
+tags: ["swimming"]
 cover: "/media/swimming-senior-night-image14.jpg"
 draft: false
 review_required: false
 date: 2020-01-28
 ---
-
-*Tags:* [**swimming**](http://talawandatribune.org/tag/swimming/)
 
 > ![](/media/swimming-senior-night-image14.jpg)
 >

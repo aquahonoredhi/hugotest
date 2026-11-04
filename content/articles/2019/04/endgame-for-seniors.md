@@ -1,8 +1,9 @@
 ---
 title: "Endgame…for Seniors"
-author: "ALYSSA SMITH"
+author: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["News", "School"]
+tags: []
 cover: "/media/endgame-for-seniors-image3.jpg"
 draft: false
 review_required: false

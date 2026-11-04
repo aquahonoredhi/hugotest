@@ -1,8 +1,9 @@
 ---
 title: "OSU Football_ Back to Back"
-author: "Tyler Rothert"
+author: ["Tyler Rothert"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

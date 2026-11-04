@@ -1,8 +1,9 @@
 ---
 title: "Trending_ Tonight’s Homework"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/trending-tonight-s-homework-image2.jpg"
 draft: false
 review_required: false

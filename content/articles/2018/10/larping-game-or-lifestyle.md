@@ -1,15 +1,14 @@
 ---
 title: "LARPing – Game, or Lifestyle"
-author: "MK HUDDLESTON"
+author: ["MK HUDDLESTON"]
 nickname: ""
 categories: ["Gaming", "Tribune Tries It"]
+tags: ["LARPing"]
 cover: "/media/larping-game-or-lifestyle-image1.jpg"
 draft: false
 review_required: false
 date: 2018-10-09
 ---
-
-*Tags:* [**LARPing**](http://talawandatribune.org/tag/larping/)
 
 LARPing, otherwise known as Live Action Role Play, is a game known nationwide with various tournaments held across the country. Allowing adults to dress up and physically pursue their fictional goals through fictional battle, LARPing is one of the few creative outlets of its kind. And now the trend has come to Talawanda.
 

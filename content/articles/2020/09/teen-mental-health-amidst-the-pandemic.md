@@ -1,15 +1,14 @@
 ---
 title: "Teen Mental Health Amidst the Pandemic"
-author: "K.E. Fisher"
+author: ["K.E. Fisher"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["teen mental health"]
 cover: "/media/teen-mental-health-amidst-the-pandemic-image1.png"
 draft: false
 review_required: false
 date: 2020-09-15
 ---
-
-*Tags:* [**teen mental health**](http://talawandatribune.org/tag/teen-mental-health/)
 
 **Teen Mental Health Amidst the Pandemic** by K.E. FISHER
 

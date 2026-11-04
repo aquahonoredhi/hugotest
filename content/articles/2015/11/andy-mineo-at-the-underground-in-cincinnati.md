@@ -1,8 +1,9 @@
 ---
 title: "Andy Mineo at The Underground in Cincinnati"
-author: "De'Asia Owens"
+author: ["De'Asia Owens"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/andy-mineo-at-the-underground-in-cincinnati-image1.jpg"
 draft: false
 review_required: false

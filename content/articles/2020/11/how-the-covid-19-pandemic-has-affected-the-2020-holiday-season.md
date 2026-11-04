@@ -1,15 +1,14 @@
 ---
 title: "How the Covid-19 Pandemic Has Affected the 2020 Holiday Season"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News"]
+tags: ["holiday plans", "pandemic"]
 cover: "/media/how-the-covid-19-pandemic-has-affected-the-2020-holiday-season-image6.png"
 draft: false
 review_required: false
 date: 2020-11-25
 ---
-
-*Tags:* [**holiday plans**](http://talawandatribune.org/tag/holiday-plans/)*,* [**pandemic**](http://talawandatribune.org/tag/pandemic/)
 
 ![](/media/how-the-covid-19-pandemic-has-affected-the-2020-holiday-season-image6.png)By Muhammed Khan
 

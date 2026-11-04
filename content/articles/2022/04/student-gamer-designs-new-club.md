@@ -1,8 +1,9 @@
 ---
 title: "Student Gamer Designs New Club"
-author: "Abdullah Khan"
+author: ["Abdullah Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

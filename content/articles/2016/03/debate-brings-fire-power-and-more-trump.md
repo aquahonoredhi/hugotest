@@ -1,8 +1,9 @@
 ---
 title: "Debate Brings Fire Power, and More Trump"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/debate-brings-fire-power-and-more-trump-image1.jpg"
 draft: false
 review_required: false

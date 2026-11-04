@@ -1,8 +1,9 @@
 ---
 title: "Holiday in Oxford_ Photo Story"
-author: "Madi Hickman"
+author: ["Madi Hickman"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/holiday-in-oxford-photo-story-image1.jpg"
 draft: false
 review_required: false

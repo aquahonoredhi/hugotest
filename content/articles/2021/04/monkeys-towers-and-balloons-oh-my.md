@@ -1,8 +1,9 @@
 ---
 title: "Monkeys, Towers and Balloons, Oh My"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

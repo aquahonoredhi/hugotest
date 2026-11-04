@@ -1,8 +1,9 @@
 ---
 title: "Images from the Wye Oak Show in Newport, KY"
-author: "m. aerni"
+author: ["m. aerni"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/images-from-the-wye-oak-show-in-newport-ky-image27.jpg"
 draft: false
 review_required: false

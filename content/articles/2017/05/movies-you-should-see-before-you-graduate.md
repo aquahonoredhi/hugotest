@@ -1,8 +1,9 @@
 ---
 title: "Movies You Should See Before You Graduate"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/movies-you-should-see-before-you-graduate-image1.jpg"
 draft: false
 review_required: false

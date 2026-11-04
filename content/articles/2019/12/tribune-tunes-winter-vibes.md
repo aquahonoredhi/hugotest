@@ -1,8 +1,9 @@
 ---
 title: "Tribune Tunes_ Winter Vibes"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: ["Arts and Entertainment", "Tribune Tunes"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

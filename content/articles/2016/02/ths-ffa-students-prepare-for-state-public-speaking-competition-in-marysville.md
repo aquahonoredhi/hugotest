@@ -1,8 +1,9 @@
 ---
 title: "THS FFA Students Prepare for State Public Speaking Competition in Marysville"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-ffa-students-prepare-for-state-public-speaking-competition-in-marysville-image1.jpg"
 draft: false
 review_required: false

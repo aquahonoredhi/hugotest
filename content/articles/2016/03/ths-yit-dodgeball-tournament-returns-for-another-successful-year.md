@@ -1,8 +1,9 @@
 ---
 title: "THS YIT Dodgeball Tournament Returns for Another Successful Year"
-author: "Ian Sayres"
+author: ["Ian Sayres"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-yit-dodgeball-tournament-returns-for-another-successful-year-image11.jpg"
 draft: false
 review_required: false

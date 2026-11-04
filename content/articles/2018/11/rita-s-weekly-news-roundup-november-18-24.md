@@ -1,8 +1,9 @@
 ---
 title: "Rita’s Weekly News Roundup_ November 18 – 24"
-author: "RITA ARMITAGE"
+author: ["RITA ARMITAGE"]
 nickname: ""
 categories: ["National & Global", "News"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "What is the Climate, Ohio"
-author: "Julie Page"
+author: ["Julie Page"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

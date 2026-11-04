@@ -1,8 +1,9 @@
 ---
 title: "Parking Lot Problems Part 2"
-author: "ALYSSA SMITH"
+author: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["News", "School"]
+tags: []
 cover: "/media/parking-lot-problems-part-2-image1.jpg"
 draft: false
 review_required: false

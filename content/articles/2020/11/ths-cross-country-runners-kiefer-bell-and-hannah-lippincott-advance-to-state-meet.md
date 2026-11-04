@@ -1,15 +1,14 @@
 ---
 title: "THS Cross Country Runners Kiefer Bell and Hannah Lippincott Advance to State Meet"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["cross country"]
 cover: "/media/ths-cross-country-runners-kiefer-bell-and-hannah-lippincott-advance-to-state-meet-image2.jpg"
 draft: false
 review_required: false
 date: 2020-11-06
 ---
-
-*Tags:* [**cross country**](http://talawandatribune.org/tag/cross-country/)
 
 The THS boys and girls cross country teams ran a great race at the Regional Meet on Saturday, October 31st, at Troy Memorial Park. The boys were represented by Kiefer Bell and Logan Murray. The girls were represented by Hannah Lippincott, Maddy Iden, Libby Farmer, Lilly Iden, Kylee Carver, Brooke Hubbard, and Bella Walter.
 

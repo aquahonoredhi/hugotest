@@ -1,15 +1,14 @@
 ---
 title: "The Rebirth of Avatar_ the Last Airbender"
-author: "RZW"
+author: ["RZW"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]
+tags: ["AVATAR THE LAST AIRBENDER"]
 cover: "/media/the-rebirth-of-avatar-the-last-airbender-image1.png"
 draft: false
 review_required: false
 date: 2020-10-06
 ---
-
-*Tags:* [**AVATAR THE LAST AIRBENDER**](http://talawandatribune.org/tag/avatar-the-last-airbender/)
 
 **The Rebirth of *Avatar: the Last Airbender***
 

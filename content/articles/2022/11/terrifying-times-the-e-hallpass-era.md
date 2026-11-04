@@ -1,8 +1,9 @@
 ---
 title: "Terrifying Times_ The E-Hallpass Era"
-author: "Moonhamed Juan"
+author: ["Moonhamed Juan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/terrifying-times-the-e-hallpass-era-image1.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "THS Cross Country Takes the Dub at SWOC"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-cross-country-takes-the-dub-at-swoc-image1.png"
 draft: false
 review_required: false

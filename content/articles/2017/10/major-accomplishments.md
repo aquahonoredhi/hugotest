@@ -1,8 +1,9 @@
 ---
 title: "Major Accomplishments"
-author: "CASSADY EDWARDS"
+author: ["CASSADY EDWARDS"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

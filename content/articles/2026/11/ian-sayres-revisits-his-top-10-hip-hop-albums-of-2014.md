@@ -1,12 +1,13 @@
 ---
 title: "Ian Sayres Revisits his Top 10 Hip-Hop Albums of 2014"
-author: "PENDING REVIEW"
+author: ["PENDING REVIEW"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/ian-sayres-revisits-his-top-10-hip-hop-albums-of-2014-image3.jpg"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **Ian Sayres Revisits his Top 10 Hip-Hop Albums of 2014**

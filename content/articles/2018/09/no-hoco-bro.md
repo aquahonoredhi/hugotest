@@ -1,8 +1,9 @@
 ---
 title: "No Hoco Bro"
-author: "STAFF"
+author: ["STAFF"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

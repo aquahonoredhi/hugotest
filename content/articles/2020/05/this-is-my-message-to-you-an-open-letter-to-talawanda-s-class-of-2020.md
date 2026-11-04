@@ -1,8 +1,9 @@
 ---
 title: "“This is My Message to You”_  An Open Letter to Talawanda’s Class of 2020"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["School"]
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

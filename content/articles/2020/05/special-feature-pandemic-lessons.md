@@ -1,15 +1,14 @@
 ---
 title: "SPECIAL FEATURE_  Pandemic Lessons"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["News", "Opinion", "School"]
+tags: ["coronavirus", "Covid-19", "pandemic"]
 cover: "/media/special-feature-pandemic-lessons-image1.jpg"
 draft: false
 review_required: false
 date: 2020-05-11
 ---
-
-*Tags:* [**coronavirus**](http://talawandatribune.org/tag/coronavirus/)*,* [**Covid-19**](http://talawandatribune.org/tag/covid-19/)*,* [**pandemic**](http://talawandatribune.org/tag/pandemic/)
 
 ![](/media/special-feature-pandemic-lessons-image1.jpg)
 

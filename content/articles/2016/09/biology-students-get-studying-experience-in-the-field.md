@@ -1,8 +1,9 @@
 ---
 title: "Biology Students Get Studying Experience “In the Field”"
-author: "P. Geshan, Contributor"
+author: ["P. Geshan, Contributor"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "School Gotcha Down_  Don_t Worry Memes Are in Town"
-author: "Meme Team: Hickman & Huddleston"
+author: ["Meme Team: Hickman & Huddleston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/school-gotcha-down-don-t-worry-memes-are-in-town-image7.gif"
 draft: false
 review_required: false

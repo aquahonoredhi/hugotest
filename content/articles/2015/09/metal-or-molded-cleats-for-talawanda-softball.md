@@ -1,8 +1,9 @@
 ---
 title: "Metal or Molded Cleats for Talawanda Softball"
-author: "Sam Davis"
+author: ["Sam Davis"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/metal-or-molded-cleats-for-talawanda-softball-image3.jpg"
 draft: false
 review_required: false

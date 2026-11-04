@@ -1,8 +1,9 @@
 ---
 title: "Presidential Decree Saw Minimal Compliance Yet Was Wildly Successful"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
+tags: []
 cover: "/media/presidential-decree-saw-minimal-compliance-yet-was-wildly-successful-image3.jpg"
 draft: false
 review_required: false

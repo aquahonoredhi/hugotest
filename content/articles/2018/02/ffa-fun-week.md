@@ -1,8 +1,9 @@
 ---
 title: "FFA Fun Week"
-author: "BRADYN SPURLOCK"
+author: ["BRADYN SPURLOCK"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ffa-fun-week-image1.jpg"
 draft: false
 review_required: false

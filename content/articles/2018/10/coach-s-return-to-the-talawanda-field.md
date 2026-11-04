@@ -1,8 +1,9 @@
 ---
 title: "Coach’s Return to the Talawanda Field"
-author: "HILEY KRESSE"
+author: ["HILEY KRESSE"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "03_29_2012 – Weather, Unemployment, and Food"
-author: "Joseph L.A. Hall"
+author: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

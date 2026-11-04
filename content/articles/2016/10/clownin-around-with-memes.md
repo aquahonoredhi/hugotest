@@ -1,8 +1,9 @@
 ---
 title: "Clownin’ Around with Memes"
-author: "\"Meme Team\" Hicks & Hudds"
+author: ["\"Meme Team\" Hicks & Hudds"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/clownin-around-with-memes-image3.jpg"
 draft: false
 review_required: false

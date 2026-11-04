@@ -1,15 +1,14 @@
 ---
 title: "Mrs. Schran_  Style Icon"
-author: "SARAH CLARKE"
+author: ["SARAH CLARKE"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
+tags: ["Schran", "style icon"]
 cover: "/media/mrs-schran-style-icon-image1.jpg"
 draft: false
 review_required: false
 date: 2018-10-02
 ---
-
-*Tags:* [**Schran**](http://talawandatribune.org/tag/schran/)*,* [**style icon**](http://talawandatribune.org/tag/style-icon/)
 
 We all know the kind-hearted science teacher Mrs. Schran, but have you ever taken the time to appreciate her exquisite fashion sense? If you take a moment to really observe her iconic looks you will notice how unique and refreshing her style is. I asked her a few questions to learn more about what inspires her creative wardrobe.
 

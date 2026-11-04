@@ -1,15 +1,14 @@
 ---
 title: "Cameras On, or Cameras Off"
-author: "K.E. Fisher"
+author: ["K.E. Fisher"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["remote learning", "zoom"]
 cover: "/media/cameras-on-or-cameras-off-image3.png"
 draft: false
 review_required: false
 date: 2020-11-18
 ---
-
-*Tags:* [**remote learning**](http://talawandatribune.org/tag/remote-learning/)*,* [**zoom**](http://talawandatribune.org/tag/zoom/)
 
 **Cameras On, or Cameras Off?**
 

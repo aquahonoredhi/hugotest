@@ -1,8 +1,9 @@
 ---
 title: "THS Bus Garage Set for Completion in June"
-author: "Lily Franks"
+author: ["Lily Franks"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-bus-garage-set-for-completion-in-june-image1.png"
 draft: false
 review_required: false

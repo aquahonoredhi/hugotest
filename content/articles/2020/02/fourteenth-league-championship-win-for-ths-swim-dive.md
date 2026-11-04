@@ -1,15 +1,14 @@
 ---
 title: "Fourteenth League Championship Win for THS Swim & Dive"
-author: "Kei Brown"
+author: ["Kei Brown"]
 nickname: ""
 categories: ["News", "School", "Sports"]
+tags: ["swimming"]
 cover: "/media/fourteenth-league-championship-win-for-ths-swim-dive-image1.jpg"
 draft: false
 review_required: false
 date: 2020-02-05
 ---
-
-*Tags:* [**swimming**](http://talawandatribune.org/tag/swimming/)
 
 ### **SWOC Championship**
 

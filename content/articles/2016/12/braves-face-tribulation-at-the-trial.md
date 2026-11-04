@@ -1,8 +1,9 @@
 ---
 title: "Braves Face Tribulation at the Trial"
-author: "Charis Whalen"
+author: ["Charis Whalen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/braves-face-tribulation-at-the-trial-image1.jpg"
 draft: false
 review_required: false

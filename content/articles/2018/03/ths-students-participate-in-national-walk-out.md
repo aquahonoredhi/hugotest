@@ -1,8 +1,9 @@
 ---
 title: "THS Students Participate in National Walk Out"
-author: "JEAN R. PATEMAN, MAGNOLIA SORENSEN & BRADYN SPURLOCK"
+author: ["JEAN R. PATEMAN, MAGNOLIA SORENSEN & BRADYN SPURLOCK"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-students-participate-in-national-walk-out-image8.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Op-Ed on the Democratic National Convention"
-author: "JEAN R. PATEMAN"
+author: ["JEAN R. PATEMAN"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

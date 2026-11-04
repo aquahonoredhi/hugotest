@@ -1,8 +1,9 @@
 ---
 title: "Dakota’s Roadhouse"
-author: "Morgan McQueen"
+author: ["Morgan McQueen"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/dakota-s-roadhouse-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "New Guidance Staff at THS"
-author: "Tyler Rothert"
+author: ["Tyler Rothert"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/new-guidance-staff-at-ths-image3.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "THS Varsity Softball"
-author: "Brianna Nixon"
+author: ["Brianna Nixon"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-varsity-softball-image1.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Photos From the Fall 2013 Setting Stone Coffee House"
-author: "Photos by Sylvia deBoer"
+author: ["Photos by Sylvia deBoer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/photos-from-the-fall-2013-setting-stone-coffee-house-image9.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Review_ The Decemberists’ “What a Terrible World, What a Beautiful World”"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

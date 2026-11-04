@@ -1,8 +1,9 @@
 ---
 title: "Tribune Tries It_ Gingerbread Wars"
-author: "Tribune Staff"
+author: ["Tribune Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/tribune-tries-it-gingerbread-wars-image14.jpg"
 draft: false
 review_required: false

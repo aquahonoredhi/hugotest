@@ -1,8 +1,9 @@
 ---
 title: "Reviewing MET Gala Looks"
-author: "JORDAN GRESHAM"
+author: ["JORDAN GRESHAM"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/reviewing-met-gala-looks-image5.jpg"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "Miami Art Program Connects With Elderly"
-author: "sylvia"
+author: ["sylvia"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/miami-art-program-connects-with-elderly-image1.jpg"
 draft: false
 review_required: false

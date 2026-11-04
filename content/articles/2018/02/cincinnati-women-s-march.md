@@ -1,8 +1,9 @@
 ---
 title: "Cincinnati Women’s March"
-author: "Rita Barclay Hart"
+author: ["Rita Barclay Hart"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/cincinnati-women-s-march-image1.jpg"
 draft: false
 review_required: false

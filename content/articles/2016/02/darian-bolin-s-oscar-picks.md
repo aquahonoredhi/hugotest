@@ -1,8 +1,9 @@
 ---
 title: "Darian Bolin’s Oscar Picks"
-author: "Darian Bolin"
+author: ["Darian Bolin"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

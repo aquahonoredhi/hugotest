@@ -1,8 +1,9 @@
 ---
 title: "Introducing Ms. Hess"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/introducing-ms-hess-image1.png"
 draft: false
 review_required: false

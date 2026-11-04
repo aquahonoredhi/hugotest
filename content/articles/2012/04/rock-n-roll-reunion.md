@@ -1,8 +1,9 @@
 ---
 title: "Rock N’ Roll Reunion"
-author: "Luke Howard"
+author: ["Luke Howard"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/rock-n-roll-reunion-image1.jpg"
 draft: false
 review_required: false

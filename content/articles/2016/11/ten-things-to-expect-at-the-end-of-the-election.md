@@ -1,8 +1,9 @@
 ---
 title: "Ten Things to Expect at the End of the Election"
-author: "Nik Craig"
+author: ["Nik Craig"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

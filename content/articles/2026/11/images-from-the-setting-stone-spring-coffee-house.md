@@ -1,12 +1,13 @@
 ---
 title: "Images from the Setting Stone Spring Coffee House"
-author: "Photos by Charles Mullenix"
+author: ["Photos by Charles Mullenix"]
 nickname: ""
 categories: ["Needs Review"]
+tags: []
 cover: "/media/images-from-the-setting-stone-spring-coffee-house-image20.jpg"
 draft: false
 review_required: true
-date: 2026-11-01
+date: 2026-11-03
 ---
 
 # **Images from the Setting Stone Spring Coffee House**

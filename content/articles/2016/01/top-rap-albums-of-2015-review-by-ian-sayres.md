@@ -1,8 +1,9 @@
 ---
 title: "Top Rap Albums of 2015_ Review by Ian Sayres"
-author: "Ian Sayres"
+author: ["Ian Sayres"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/top-rap-albums-of-2015-review-by-ian-sayres-image1.jpg"
 draft: false
 review_required: false

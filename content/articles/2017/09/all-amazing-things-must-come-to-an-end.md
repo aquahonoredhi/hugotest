@@ -1,8 +1,9 @@
 ---
 title: "All Amazing Things Must Come To an End"
-author: "AUSTIN HOWARD"
+author: ["AUSTIN HOWARD"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

@@ -1,8 +1,9 @@
 ---
 title: "December Horoscope"
-author: "VICTORIA DOBSON"
+author: ["VICTORIA DOBSON"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/december-horoscope-image1.jpg"
 draft: false
 review_required: false

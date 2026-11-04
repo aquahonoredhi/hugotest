@@ -1,8 +1,9 @@
 ---
 title: "Oxford Ice Cream Shops Offer Wide Variety for all Tastes"
-author: "Katie Johnston"
+author: ["Katie Johnston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/oxford-ice-cream-shops-offer-wide-variety-for-all-tastes-image4.jpg"
 draft: false
 review_required: false

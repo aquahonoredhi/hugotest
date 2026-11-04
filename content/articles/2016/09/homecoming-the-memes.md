@@ -1,8 +1,9 @@
 ---
 title: "Homecoming_ The Memes"
-author: "Meme Team, HickHudds"
+author: ["Meme Team, HickHudds"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/homecoming-the-memes-image3.jpg"
 draft: false
 review_required: false

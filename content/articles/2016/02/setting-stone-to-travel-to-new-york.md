@@ -1,8 +1,9 @@
 ---
 title: "Setting Stone to Travel to New York"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/setting-stone-to-travel-to-new-york-image1.jpg"
 draft: false
 review_required: false

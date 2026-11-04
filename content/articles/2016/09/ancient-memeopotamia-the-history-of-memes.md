@@ -1,8 +1,9 @@
 ---
 title: "Ancient Memeopotamia_ The History of Memes"
-author: "The Meme Team: Hickman & Huddleston"
+author: ["The Meme Team: Hickman & Huddleston"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ancient-memeopotamia-the-history-of-memes-image8.png"
 draft: false
 review_required: false

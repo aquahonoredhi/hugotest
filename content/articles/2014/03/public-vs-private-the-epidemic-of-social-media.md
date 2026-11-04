@@ -1,8 +1,9 @@
 ---
 title: "Public vs. Private_ The Epidemic of Social Media"
-author: "laureltilton"
+author: ["laureltilton"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

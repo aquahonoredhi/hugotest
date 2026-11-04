@@ -1,8 +1,9 @@
 ---
 title: "2020_  Impish or Admirable__"
-author: "Staff"
+author: ["Staff"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

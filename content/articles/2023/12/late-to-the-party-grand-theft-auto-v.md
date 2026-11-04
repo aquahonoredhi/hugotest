@@ -1,8 +1,9 @@
 ---
 title: "Late to the Party_ Grand Theft Auto V"
-author: "Will Salzarulo"
+author: ["Will Salzarulo"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/late-to-the-party-grand-theft-auto-v-image1.png"
 draft: false
 review_required: false

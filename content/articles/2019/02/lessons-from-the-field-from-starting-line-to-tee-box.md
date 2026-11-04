@@ -1,8 +1,9 @@
 ---
 title: "Lessons from the Field_ From Starting Line to Tee Box"
-author: "Patrick Geshan"
+author: ["Patrick Geshan"]
 nickname: ""
 categories: ["Columns", "Lessons from the Field With Patrick Geshan"]
+tags: []
 cover: "/media/lessons-from-the-field-from-starting-line-to-tee-box-image1.jpg"
 draft: false
 review_required: false

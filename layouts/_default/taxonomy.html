@@ -1,0 +1,5 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ partial "articleList.html" (dict "context" . "style" "standard" "pages" .Pages) }}
+{{ end }}

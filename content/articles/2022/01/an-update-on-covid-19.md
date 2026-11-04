@@ -1,8 +1,9 @@
 ---
 title: "An Update on COVID-19"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/an-update-on-covid-19-image1.png"
 draft: false
 review_required: false

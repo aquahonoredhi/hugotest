@@ -1,15 +1,14 @@
 ---
 title: "THS Football Field Lights Up in Honor of Class of 2020"
-author: "Eleanor Prytherch, Class of 2020"
+author: ["Eleanor Prytherch, Class of 2020"]
 nickname: ""
 categories: ["News", "School"]
+tags: ["2020", "graduation", "seniors", "stadium lights"]
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2020-05-04
 ---
-
-*Tags:* [**2020**](http://talawandatribune.org/tag/2020/)*,* [**graduation**](http://talawandatribune.org/tag/graduation/)*,* [**seniors**](http://talawandatribune.org/tag/seniors/)*,* [**stadium lights**](http://talawandatribune.org/tag/stadium-lights/)
 
 By ELEANOR PRYTHERCH *Class of 2020*
 

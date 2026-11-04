@@ -1,8 +1,9 @@
 ---
 title: "Kondo_ Ask Me Almost Anything"
-author: "The Lemon"
+author: ["The Lemon"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/kondo-ask-me-almost-anything-image1.jpg"
 draft: false
 review_required: false

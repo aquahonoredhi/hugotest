@@ -1,15 +1,14 @@
 ---
 title: "Super Swole Beetle Can Survive Getting Run Over By Car"
-author: "RZW"
+author: ["RZW"]
 nickname: ""
 categories: ["News"]
+tags: ["Swole Beetle"]
 cover: "/media/super-swole-beetle-can-survive-getting-run-over-by-car-image1.png"
 draft: false
 review_required: false
 date: 2020-11-02
 ---
-
-*Tags:* [**Swole Beetle**](http://talawandatribune.org/tag/swole-beetle/)
 
 **Super Swole Beetle Can Survive Getting Run Over By Car**
 

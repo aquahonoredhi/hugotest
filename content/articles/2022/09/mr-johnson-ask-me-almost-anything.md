@@ -1,8 +1,9 @@
 ---
 title: "Mr.Johnson_  Ask Me Almost Anything"
-author: "Muhammed Khan"
+author: ["Muhammed Khan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/mr-johnson-ask-me-almost-anything-image1.jpg"
 draft: false
 review_required: false

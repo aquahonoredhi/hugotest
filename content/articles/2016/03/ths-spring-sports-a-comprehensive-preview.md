@@ -1,8 +1,9 @@
 ---
 title: "THS Spring Sports_ A Comprehensive Preview"
-author: "Sylvia de Boer"
+author: ["Sylvia de Boer"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/ths-spring-sports-a-comprehensive-preview-image1.jpg"
 draft: false
 review_required: false

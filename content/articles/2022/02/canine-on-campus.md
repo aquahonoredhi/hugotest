@@ -1,8 +1,9 @@
 ---
 title: "Canine on Campus"
-author: "Eliza Sullivan"
+author: ["Eliza Sullivan"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/canine-on-campus-image12.jpg"
 draft: false
 review_required: false

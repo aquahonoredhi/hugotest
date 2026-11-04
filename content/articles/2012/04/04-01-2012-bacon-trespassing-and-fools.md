@@ -1,8 +1,9 @@
 ---
 title: "04_01_2012 – Bacon, Trespassing, and Fools"
-author: "Joseph L.A. Hall"
+author: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false

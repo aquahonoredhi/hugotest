@@ -1,8 +1,9 @@
 ---
 title: "Journalism Students Produce Podcast"
-author: "waxy"
+author: ["waxy"]
 nickname: ""
 categories: []
+tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false
