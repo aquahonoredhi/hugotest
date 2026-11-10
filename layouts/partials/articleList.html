@@ -1,32 +1,43 @@
-{{ $style := .style | default "standard" }}
 {{ $context := .context }}
-{{ $offset := $context.Store.Get "articleListOffset" | default 0 }}
-{{ $articles := where $context.Site.RegularPages "Section" "articles" }}
+{{ $pages := $context.Pages }}
+{{ if $context.IsHome }}
+    {{ $pages = where $context.Site.RegularPages "Section" "articles" }}
+{{ end }}
 {{ if isset . "pages" }}
-    {{ $articles = where .pages "Section" "articles" }}
+    {{ $pages = .pages }}
 {{ end }}
-{{ $articles = $articles.ByDate.Reverse }}
-{{ $count := 0 }}
-{{ if eq $style "remaining" }}
-    {{ $remaining := sub (len $articles) $offset }}
-    {{ if gt $remaining 0 }}
-        {{ $count = $remaining }}
+{{ $pages = $pages.ByDate.Reverse }}
+{{ $offset := .offset | default 0 }}
+{{ $lists := .lists }}
+{{ if not $lists }}
+    {{ $style := .style | default "standard" }}
+    {{ if isset . "count" }}
+        {{ $lists = slice (dict "style" $style "count" .count) }}
+    {{ else }}
+        {{ $lists = slice (dict "style" $style) }}
     {{ end }}
-{{ else }}
-    {{ $counts := dict "standard" 5 "featured" 3 }}
-    {{ $count = index $counts $style | default 5 }}
 {{ end }}
-{{ $context.Store.Set "articleListOffset" (add $offset $count) }}
-<div class="articlesList articlesList-{{ $style }}">
-    {{ range first $count (after $offset $articles) }}
-        <div class="articleListing articleListing-{{ $style }}">
-            <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <div>
-                {{ range $index, $author := .GetTerms "author" }}
-                    {{ if $index }}, {{ end }}<a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
-                {{ end }}
+{{ range $list := $lists }}
+    {{ $style := $list.style | default "standard" }}
+    {{ $count := sub (len $pages) $offset }}
+    {{ if isset $list "count" }}
+        {{ $count = $list.count }}
+    {{ end }}
+    {{ if lt $count 0 }}
+        {{ $count = 0 }}
+    {{ end }}
+    <div class="articlesList articlesList-{{ $style }}">
+        {{ range first $count (after $offset $pages) }}
+            <div class="articleListing articleListing-{{ $style }}">
+                <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <div>
+                    {{ range $index, $author := .GetTerms "author" }}
+                        {{ if $index }}, {{ end }}<p>{{ $author.LinkTitle }}</p>
+                    {{ end }}
+                </div>
             </div>
-        </div>
-    {{ end }}
-</div>
+        {{ end }}
+    </div>
+    {{ $offset = add $offset $count }}
+{{ end }}

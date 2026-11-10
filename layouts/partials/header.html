@@ -1,10 +1,12 @@
 <header>
-    <nav>
-        <ul class="site-nav">
-           <li class="site-nav__brand"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
-            {{ range site.Menus.main }}
-            {{ partial "menu-item.html" . }}
-            {{ end }}
-        </ul>
-    </nav>
+    <div class="header-wrap">
+        <nav>
+            <ul class="site-nav">
+               <li class="site-nav_list"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
+                {{ range site.Menus.main }}
+                {{ partial "menu-item.html" . }}
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
 </header>

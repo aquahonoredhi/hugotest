@@ -6,7 +6,8 @@ title = 'Talawanda Tribune'
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-  author = 'author'
+  staff  = 'author'
+  author-inactive = 'author'
 
 [outputs]
   home = ['HTML', 'RSS']

@@ -4,8 +4,8 @@
         {{ now.Format "Mon Jan 2 2006" }}
         {{ .Content }}
     </div>
-    {{ partial "articleList.html" (dict "context" . "style" "standard")}}
-    {{ partial "articleList.html" (dict "context" . "style" "featured")}}
-    {{ partial "articleList.html" (dict "context" . "style" "remaining")}}
+{{/*    {{ partial "articleList.html" (dict "context" . "style" "standard")}}*/}}
+    {{ partial "articleList.html" (dict "context" . "offset" 5 "lists" (slice (dict "style" "featured" "count" 1)))}}
+{{/*    {{ partial "articleList.html" (dict "context" . "style" "remaining")}}*/}}
 
 {{ end }}

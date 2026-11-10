@@ -16,7 +16,7 @@ img {
 nav > .site-nav {
     list-style: none;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     margin: 0;
     padding: 0 2ch;
 }
@@ -30,9 +30,13 @@ nav > .site-nav {
     margin-left: auto;
 }
 
-.site-nav > .site-nav__brand {
+.site-nav > .site-nav_list {
     font-family: 'Oswald', sans-serif;
     font-size: 16pt;
+}
+
+.site-nav > li > a {
+    display: flex;
 }
 
 nav a {
@@ -45,7 +49,7 @@ nav a {
 }
 
 .site-nav .menu-item--has-children > a::after {
-    content: " \25BE";
+    content: "\25BE";
 }
 
 .site-nav .submenu {
@@ -90,6 +94,10 @@ nav a {
 header {
     background-color: #d3413f;
 }
+.header-wrap, .body-wrap, footer-wrap {
+    max-width: 12000px;
+    margin:auto;
+}
 .articlesList-standard,
 .articlesList-remaining {
     display:grid;
@@ -112,5 +120,36 @@ header {
     color: #000000;
 }
 .articleListing-featured {
-    display:flex;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+    grid-template-rows: minmax(0, 300px);
+    grid-template-areas:
+        "image title"
+        "image text";
+    gap: 4ch;
+    align-items: start;
+}
+.articleListing-featured > a:first-child {
+    grid-area: image;
+}
+.articleListing-featured > h2 {
+    grid-area: title;
+    margin-top: 0;
+}
+.articleListing-featured > div {
+    grid-area: text;
+}
+@media (max-width: 600px) {
+    .articleListing-featured {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "image"
+            "title"
+            "text";
+    }
+}
+
+.header-wrap {
+    background-color: #d3413f;
+
 }

@@ -1,5 +1,5 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    {{ partial "articleList.html" (dict "context" . "style" "standard" "pages" .Pages) }}
+    {{ partial "articleList.html" (dict "context" . "style" "standard" "offset" 0 "count" 5) }}
 {{ end }}
