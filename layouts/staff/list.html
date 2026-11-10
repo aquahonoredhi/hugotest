@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<ul>
+    {{ $showInactive := eq .RelPermalink "/staff/inactive/" }}
+    {{ range site.RegularPages }}
+    {{ $isStaff := strings.HasPrefix .RelPermalink "/staff/" }}
+    {{ $isInactive := strings.HasPrefix .RelPermalink "/staff/inactive/" }}
+    {{ if and $isStaff (eq $isInactive $showInactive) .Params.Name }}
+    <li>
+        <h2><a href="{{ .RelPermalink }}">{{ .Params.Name }}</a></h2>
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>
+{{ end }}

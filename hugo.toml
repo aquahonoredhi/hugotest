@@ -2,16 +2,16 @@ baseURL = 'https://hugo.aquahonoredhi.pp.ua'
 locale = 'en-us'
 languageCode = 'en-US'
 title = 'Talawanda Tribune'
+enableGitInfo = true
+
 
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-  staff  = 'author'
-  author-inactive = 'author'
 
 [outputs]
   home = ['HTML', 'RSS']
   page = ['HTML']
   section = ['HTML']
-  taxonomy = ['HTML']
+  taxonomy = ['HTML', 'RSS']
   term = ['HTML']

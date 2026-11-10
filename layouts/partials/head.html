@@ -11,4 +11,6 @@
         {{ .Title }} &middot; {{ .Site.Title }}
         {{- end -}}
     </title>
+        <meta name="kind" content="{{ .Kind }}">
+<!--    <meta name="context" content="{{ .Page | jsonify (dict "indent" "  ") }}">-->
 </head>

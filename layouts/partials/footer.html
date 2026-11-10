@@ -1,5 +1,6 @@
 <footer>
     <div class="footer-wrap">
         <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+        <p>{{ .Lastmod | time.Format ":date_medium" }}</p>
     </div>
 </footer>
