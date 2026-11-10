@@ -1,0 +1,9 @@
+{{ with .GetTerms "author" }}
+  <p class="article-authors">
+    By
+    {{ range $index, $author := . }}
+      {{- if $index }}, {{ end }}
+      <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+    {{- end }}
+  </p>
+{{ end }}

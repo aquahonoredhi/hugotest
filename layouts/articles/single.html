@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+<h3>{{ .Date.Format "Mon Jan 2 2006" }}</h3>
+    <h3>{{ partial "authorList.html" . }}</h3>
 <div>
     {{ .Content }}
 </div>
